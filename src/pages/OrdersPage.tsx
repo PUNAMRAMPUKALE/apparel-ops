@@ -33,9 +33,6 @@ export default function OrdersPage() {
   const brands =
     state.brands.items || [];
 
-  const orderItems =
-    state.orderItems.items || [];
-
   const supplierMap: any = {};
   suppliers.forEach((x: any) => {
     supplierMap[x.id] = x.name;

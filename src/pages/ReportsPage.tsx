@@ -200,14 +200,7 @@ const COLORS = [
             All Months
           </option>
 
-          {months.map((m: string) => (
-            <option
-              key={m}
-              value={m}
-            >
-              {m}
-            </option>
-          ))}
+          {(months as string[]).map((m) => ( <option key={m} value={m}> {m} </option> ))}
         </select>
       </div>
 

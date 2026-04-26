@@ -66,11 +66,7 @@ export default function SuppliersPage() {
           >
             <option value="">All Countries</option>
 
-            {countries.map((c: string) => (
-              <option key={c} value={c}>
-                {c}
-              </option>
-            ))}
+            {(countries as string[]).map((c) => ( <option key={c} value={c}> {c} </option> ))}
           </select>
 
         </div>
