@@ -25,11 +25,18 @@ export default function DashboardPage() {
   });
 
   const revenue =
-    orderItems.reduce(
-      (a:number,b:any)=>
-        a + ((b.sellPrice || 0) * (b.qty || 0)),
-      0
-    );
+  orderItems.reduce(
+    (sum:number,item:any)=>
+      sum +
+      Number(
+        (item.sellPrice ||
+         item.price ||
+         item.salesPrice ||
+         0) *
+        (item.qty || item.quantity || 0)
+      ),
+    0
+  );
 
   const cost =
     orderItems.reduce(
