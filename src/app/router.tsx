@@ -1,5 +1,5 @@
 import {
-  createBrowserRouter,
+  createHashRouter,
   Navigate
 } from "react-router-dom";
 
@@ -30,7 +30,7 @@ function allowAdmin(element:any) {
     : <Navigate to="/orders" replace />;
 }
 
-export const router = createBrowserRouter([
+export const router = createHashRouter([
   {
     path: "/login",
     element: <LoginPage />
