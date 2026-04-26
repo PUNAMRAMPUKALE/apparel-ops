@@ -1,6 +1,5 @@
 // src/pages/DashboardPage.tsx
-// COMPLETE DATA DISPLAY FIX
-// Uses both direct fields + linked JSON fallback
+// FINAL REVENUE FIXED + your full existing UI preserved
 
 import { useSelector } from "react-redux";
 
@@ -24,24 +23,48 @@ export default function DashboardPage() {
     brandMap[String(b.id)] = b.name;
   });
 
+  const getQtyValue = (x:any)=>
+    Number(
+      x.qty ??
+      x.quantity ??
+      x.orderQty ??
+      0
+    );
+
+  const getSellValue = (x:any)=>
+    Number(
+      x.sellPrice ??
+      x.salesPrice ??
+      x.price ??
+      x.rate ??
+      x.unitPrice ??
+      0
+    );
+
+  const getCostValue = (x:any)=>
+    Number(
+      x.unitCost ??
+      x.cost ??
+      x.buyPrice ??
+      x.purchasePrice ??
+      0
+    );
+
   const revenue =
-  orderItems.reduce(
-    (sum:number,item:any)=>
-      sum +
-      Number(
-        (item.sellPrice ||
-         item.price ||
-         item.salesPrice ||
-         0) *
-        (item.qty || item.quantity || 0)
-      ),
-    0
-  );
+    orderItems.reduce(
+      (sum:number,row:any)=>
+        sum +
+        (getQtyValue(row) *
+         getSellValue(row)),
+      0
+    );
 
   const cost =
     orderItems.reduce(
-      (a:number,b:any)=>
-        a + ((b.unitCost || 0) * (b.qty || 0)),
+      (sum:number,row:any)=>
+        sum +
+        (getQtyValue(row) *
+         getCostValue(row)),
       0
     );
 
@@ -50,12 +73,14 @@ export default function DashboardPage() {
 
   const delayed =
     orders.filter(
-      (x:any)=>x.status==="Delayed"
+      (x:any)=>
+        x.status==="Delayed"
     ).length;
 
   const shipped =
     orders.filter(
-      (x:any)=>x.status==="Shipped"
+      (x:any)=>
+        x.status==="Shipped"
     ).length;
 
   const pending =
@@ -101,7 +126,7 @@ export default function DashboardPage() {
     const total =
       rows.reduce(
         (a:number,b:any)=>
-          a + Number(b.qty || 0),
+          a + getQtyValue(b),
         0
       );
 
