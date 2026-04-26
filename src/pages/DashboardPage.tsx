@@ -1,5 +1,5 @@
 // src/pages/DashboardPage.tsx
-// FINAL REVENUE FIXED + your full existing UI preserved
+// FULL PAGE CODE - Revenue fallback fixed
 
 import { useSelector } from "react-redux";
 
@@ -28,6 +28,7 @@ export default function DashboardPage() {
       x.qty ??
       x.quantity ??
       x.orderQty ??
+      x.units ??
       0
     );
 
@@ -35,9 +36,13 @@ export default function DashboardPage() {
     Number(
       x.sellPrice ??
       x.salesPrice ??
+      x.sellingPrice ??
       x.price ??
       x.rate ??
       x.unitPrice ??
+      x.mrp ??
+      x.amount ??
+      x.total ??
       0
     );
 
@@ -47,6 +52,7 @@ export default function DashboardPage() {
       x.cost ??
       x.buyPrice ??
       x.purchasePrice ??
+      x.costPrice ??
       0
     );
 
