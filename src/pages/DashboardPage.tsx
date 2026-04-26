@@ -1,10 +1,11 @@
 // src/pages/DashboardPage.tsx
-// FULL PAGE CODE - Revenue fallback fixed
+// Revenue/Profit fix: when sellPrice is missing from order items,
+// fall back to a 1.7x markup on unitCost (matches ReportsPage behavior).
 
 import { useSelector } from "react-redux";
 
 export default function DashboardPage() {
-  const state:any = useSelector((s:any)=>s);
+  const state: any = useSelector((s: any) => s);
 
   const orders =
     state?.orders?.items || [];
@@ -18,12 +19,12 @@ export default function DashboardPage() {
   const orderItems =
     state?.orderItems?.items || [];
 
-  const brandMap:any = {};
-  brands.forEach((b:any)=>{
+  const brandMap: any = {};
+  brands.forEach((b: any) => {
     brandMap[String(b.id)] = b.name;
   });
 
-  const getQtyValue = (x:any)=>
+  const getQtyValue = (x: any) =>
     Number(
       x.qty ??
       x.quantity ??
@@ -32,21 +33,7 @@ export default function DashboardPage() {
       0
     );
 
-  const getSellValue = (x:any)=>
-    Number(
-      x.sellPrice ??
-      x.salesPrice ??
-      x.sellingPrice ??
-      x.price ??
-      x.rate ??
-      x.unitPrice ??
-      x.mrp ??
-      x.amount ??
-      x.total ??
-      0
-    );
-
-  const getCostValue = (x:any)=>
+  const getCostValue = (x: any) =>
     Number(
       x.unitCost ??
       x.cost ??
@@ -56,9 +43,27 @@ export default function DashboardPage() {
       0
     );
 
+  const getSellValue = (x: any) => {
+    const direct = Number(
+      x.sellPrice ??
+      x.salesPrice ??
+      x.sellingPrice ??
+      x.price ??
+      x.rate ??
+      x.unitPrice ??
+      x.mrp ??
+      0
+    );
+
+    if (direct > 0) return direct;
+
+    // Fallback: 1.7x markup on cost (matches ReportsPage)
+    return getCostValue(x) * 1.7;
+  };
+
   const revenue =
     orderItems.reduce(
-      (sum:number,row:any)=>
+      (sum: number, row: any) =>
         sum +
         (getQtyValue(row) *
          getSellValue(row)),
@@ -67,7 +72,7 @@ export default function DashboardPage() {
 
   const cost =
     orderItems.reduce(
-      (sum:number,row:any)=>
+      (sum: number, row: any) =>
         sum +
         (getQtyValue(row) *
          getCostValue(row)),
@@ -79,34 +84,34 @@ export default function DashboardPage() {
 
   const delayed =
     orders.filter(
-      (x:any)=>
-        x.status==="Delayed"
+      (x: any) =>
+        x.status === "Delayed"
     ).length;
 
   const shipped =
     orders.filter(
-      (x:any)=>
-        x.status==="Shipped"
+      (x: any) =>
+        x.status === "Shipped"
     ).length;
 
   const pending =
     orders.filter(
-      (x:any)=>
+      (x: any) =>
         x.status !== "Delivered" &&
         x.status !== "Shipped"
     ).length;
 
   const recent =
-    orders.slice(0,8);
+    orders.slice(0, 8);
 
-  const getItems = (id:any)=>{
+  const getItems = (id: any) => {
     return orderItems.filter(
-      (x:any)=>
+      (x: any) =>
         String(x.orderId) === String(id)
     );
   };
 
-  const getBrand = (o:any)=>{
+  const getBrand = (o: any) => {
     return (
       o.brand ||
       o.brandName ||
@@ -115,7 +120,7 @@ export default function DashboardPage() {
     );
   };
 
-  const getProduct = (o:any)=>{
+  const getProduct = (o: any) => {
     const rows = getItems(o.id);
 
     return (
@@ -126,12 +131,12 @@ export default function DashboardPage() {
     );
   };
 
-  const getQty = (o:any)=>{
+  const getQty = (o: any) => {
     const rows = getItems(o.id);
 
     const total =
       rows.reduce(
-        (a:number,b:any)=>
+        (a: number, b: any) =>
           a + getQtyValue(b),
         0
       );
@@ -142,7 +147,11 @@ export default function DashboardPage() {
     );
   };
 
-  return(
+  const money = (n: number) =>
+    "$" +
+    Math.round(n).toLocaleString();
+
+  return (
     <div>
 
       <h1 className="text-5xl font-bold mb-2">
@@ -178,7 +187,7 @@ export default function DashboardPage() {
             Revenue
           </p>
           <h2 className="text-3xl font-bold mt-2 break-words">
-            ${revenue.toLocaleString()}
+            {money(revenue)}
           </h2>
         </div>
 
@@ -187,7 +196,7 @@ export default function DashboardPage() {
             Profit
           </p>
           <h2 className="text-3xl font-bold mt-2 break-words">
-            ${profit.toLocaleString()}
+            {money(profit)}
           </h2>
         </div>
 
@@ -245,7 +254,7 @@ export default function DashboardPage() {
 
             <tbody>
 
-              {recent.map((o:any)=>(
+              {recent.map((o: any) => (
                 <tr key={o.id}>
                   <td>{o.poNumber}</td>
                   <td>{getBrand(o)}</td>
