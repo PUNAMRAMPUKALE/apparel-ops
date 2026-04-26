@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "admin",
+    "permissions": [
+      "all"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "staff",
+    "permissions": [
+      "orders.read",
+      "orders.write",
+      "products.read",
+      "suppliers.read"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "viewer",
+    "permissions": [
+      "orders.read",
+      "reports.read"
+    ]
+  }
+]

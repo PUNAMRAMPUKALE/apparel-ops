@@ -1,0 +1,1082 @@
+[
+  {
+    "id": 1,
+    "sku": "SKU-1001",
+    "name": "Crewneck",
+    "category": "Topwear",
+    "color": "Sand",
+    "baseCost": 15,
+    "active": true
+  },
+  {
+    "id": 2,
+    "sku": "SKU-1002",
+    "name": "Oversized Hoodie",
+    "category": "Topwear",
+    "color": "Olive",
+    "baseCost": 18,
+    "active": true
+  },
+  {
+    "id": 3,
+    "sku": "SKU-1003",
+    "name": "Cargo Pants",
+    "category": "Bottomwear",
+    "color": "Blue",
+    "baseCost": 16,
+    "active": true
+  },
+  {
+    "id": 4,
+    "sku": "SKU-1004",
+    "name": "Puffer Jacket",
+    "category": "Outerwear",
+    "color": "Sand",
+    "baseCost": 38,
+    "active": true
+  },
+  {
+    "id": 5,
+    "sku": "SKU-1005",
+    "name": "Oversized Hoodie",
+    "category": "Topwear",
+    "color": "Cream",
+    "baseCost": 18,
+    "active": true
+  },
+  {
+    "id": 6,
+    "sku": "SKU-1006",
+    "name": "Joggers",
+    "category": "Bottomwear",
+    "color": "Blue",
+    "baseCost": 14,
+    "active": true
+  },
+  {
+    "id": 7,
+    "sku": "SKU-1007",
+    "name": "Joggers",
+    "category": "Bottomwear",
+    "color": "Black",
+    "baseCost": 14,
+    "active": true
+  },
+  {
+    "id": 8,
+    "sku": "SKU-1008",
+    "name": "Joggers",
+    "category": "Bottomwear",
+    "color": "Olive",
+    "baseCost": 14,
+    "active": true
+  },
+  {
+    "id": 9,
+    "sku": "SKU-1009",
+    "name": "Beanie",
+    "category": "Accessories",
+    "color": "Black",
+    "baseCost": 4,
+    "active": true
+  },
+  {
+    "id": 10,
+    "sku": "SKU-1010",
+    "name": "Puffer Jacket",
+    "category": "Outerwear",
+    "color": "Sand",
+    "baseCost": 38,
+    "active": true
+  },
+  {
+    "id": 11,
+    "sku": "SKU-1011",
+    "name": "Heavy Tee",
+    "category": "Topwear",
+    "color": "Brown",
+    "baseCost": 8,
+    "active": true
+  },
+  {
+    "id": 12,
+    "sku": "SKU-1012",
+    "name": "Puffer Jacket",
+    "category": "Outerwear",
+    "color": "Red",
+    "baseCost": 38,
+    "active": true
+  },
+  {
+    "id": 13,
+    "sku": "SKU-1013",
+    "name": "Denim Jacket",
+    "category": "Outerwear",
+    "color": "Blue",
+    "baseCost": 24,
+    "active": true
+  },
+  {
+    "id": 14,
+    "sku": "SKU-1014",
+    "name": "Puffer Jacket",
+    "category": "Outerwear",
+    "color": "White",
+    "baseCost": 38,
+    "active": true
+  },
+  {
+    "id": 15,
+    "sku": "SKU-1015",
+    "name": "Shorts",
+    "category": "Bottomwear",
+    "color": "Grey",
+    "baseCost": 11,
+    "active": true
+  },
+  {
+    "id": 16,
+    "sku": "SKU-1016",
+    "name": "Puffer Jacket",
+    "category": "Outerwear",
+    "color": "White",
+    "baseCost": 38,
+    "active": true
+  },
+  {
+    "id": 17,
+    "sku": "SKU-1017",
+    "name": "Cargo Pants",
+    "category": "Bottomwear",
+    "color": "Grey",
+    "baseCost": 16,
+    "active": true
+  },
+  {
+    "id": 18,
+    "sku": "SKU-1018",
+    "name": "Puffer Jacket",
+    "category": "Outerwear",
+    "color": "Navy",
+    "baseCost": 38,
+    "active": true
+  },
+  {
+    "id": 19,
+    "sku": "SKU-1019",
+    "name": "Shorts",
+    "category": "Bottomwear",
+    "color": "Olive",
+    "baseCost": 11,
+    "active": true
+  },
+  {
+    "id": 20,
+    "sku": "SKU-1020",
+    "name": "Oversized Hoodie",
+    "category": "Topwear",
+    "color": "Sand",
+    "baseCost": 18,
+    "active": true
+  },
+  {
+    "id": 21,
+    "sku": "SKU-1021",
+    "name": "Cap",
+    "category": "Accessories",
+    "color": "Brown",
+    "baseCost": 5,
+    "active": true
+  },
+  {
+    "id": 22,
+    "sku": "SKU-1022",
+    "name": "Denim Jacket",
+    "category": "Outerwear",
+    "color": "Brown",
+    "baseCost": 24,
+    "active": true
+  },
+  {
+    "id": 23,
+    "sku": "SKU-1023",
+    "name": "Cargo Pants",
+    "category": "Bottomwear",
+    "color": "Brown",
+    "baseCost": 16,
+    "active": true
+  },
+  {
+    "id": 24,
+    "sku": "SKU-1024",
+    "name": "Cap",
+    "category": "Accessories",
+    "color": "Cream",
+    "baseCost": 5,
+    "active": true
+  },
+  {
+    "id": 25,
+    "sku": "SKU-1025",
+    "name": "Puffer Jacket",
+    "category": "Outerwear",
+    "color": "Blue",
+    "baseCost": 38,
+    "active": true
+  },
+  {
+    "id": 26,
+    "sku": "SKU-1026",
+    "name": "Denim Jacket",
+    "category": "Outerwear",
+    "color": "Grey",
+    "baseCost": 24,
+    "active": true
+  },
+  {
+    "id": 27,
+    "sku": "SKU-1027",
+    "name": "Oversized Hoodie",
+    "category": "Topwear",
+    "color": "White",
+    "baseCost": 18,
+    "active": true
+  },
+  {
+    "id": 28,
+    "sku": "SKU-1028",
+    "name": "Cap",
+    "category": "Accessories",
+    "color": "Brown",
+    "baseCost": 5,
+    "active": true
+  },
+  {
+    "id": 29,
+    "sku": "SKU-1029",
+    "name": "Oversized Hoodie",
+    "category": "Topwear",
+    "color": "Navy",
+    "baseCost": 18,
+    "active": true
+  },
+  {
+    "id": 30,
+    "sku": "SKU-1030",
+    "name": "Puffer Jacket",
+    "category": "Outerwear",
+    "color": "White",
+    "baseCost": 38,
+    "active": true
+  },
+  {
+    "id": 31,
+    "sku": "SKU-1031",
+    "name": "Oversized Hoodie",
+    "category": "Topwear",
+    "color": "Cream",
+    "baseCost": 18,
+    "active": true
+  },
+  {
+    "id": 32,
+    "sku": "SKU-1032",
+    "name": "Cargo Pants",
+    "category": "Bottomwear",
+    "color": "Brown",
+    "baseCost": 16,
+    "active": true
+  },
+  {
+    "id": 33,
+    "sku": "SKU-1033",
+    "name": "Heavy Tee",
+    "category": "Topwear",
+    "color": "Cream",
+    "baseCost": 8,
+    "active": true
+  },
+  {
+    "id": 34,
+    "sku": "SKU-1034",
+    "name": "Heavy Tee",
+    "category": "Topwear",
+    "color": "Sand",
+    "baseCost": 8,
+    "active": true
+  },
+  {
+    "id": 35,
+    "sku": "SKU-1035",
+    "name": "Oversized Hoodie",
+    "category": "Topwear",
+    "color": "White",
+    "baseCost": 18,
+    "active": true
+  },
+  {
+    "id": 36,
+    "sku": "SKU-1036",
+    "name": "Crewneck",
+    "category": "Topwear",
+    "color": "Sand",
+    "baseCost": 15,
+    "active": true
+  },
+  {
+    "id": 37,
+    "sku": "SKU-1037",
+    "name": "Joggers",
+    "category": "Bottomwear",
+    "color": "Grey",
+    "baseCost": 14,
+    "active": true
+  },
+  {
+    "id": 38,
+    "sku": "SKU-1038",
+    "name": "Shorts",
+    "category": "Bottomwear",
+    "color": "Olive",
+    "baseCost": 11,
+    "active": true
+  },
+  {
+    "id": 39,
+    "sku": "SKU-1039",
+    "name": "Cargo Pants",
+    "category": "Bottomwear",
+    "color": "Grey",
+    "baseCost": 16,
+    "active": true
+  },
+  {
+    "id": 40,
+    "sku": "SKU-1040",
+    "name": "Denim Jacket",
+    "category": "Outerwear",
+    "color": "Blue",
+    "baseCost": 24,
+    "active": true
+  },
+  {
+    "id": 41,
+    "sku": "SKU-1041",
+    "name": "Cargo Pants",
+    "category": "Bottomwear",
+    "color": "Red",
+    "baseCost": 16,
+    "active": true
+  },
+  {
+    "id": 42,
+    "sku": "SKU-1042",
+    "name": "Cap",
+    "category": "Accessories",
+    "color": "Blue",
+    "baseCost": 5,
+    "active": true
+  },
+  {
+    "id": 43,
+    "sku": "SKU-1043",
+    "name": "Puffer Jacket",
+    "category": "Outerwear",
+    "color": "Olive",
+    "baseCost": 38,
+    "active": true
+  },
+  {
+    "id": 44,
+    "sku": "SKU-1044",
+    "name": "Cargo Pants",
+    "category": "Bottomwear",
+    "color": "Black",
+    "baseCost": 16,
+    "active": true
+  },
+  {
+    "id": 45,
+    "sku": "SKU-1045",
+    "name": "Cargo Pants",
+    "category": "Bottomwear",
+    "color": "Grey",
+    "baseCost": 16,
+    "active": true
+  },
+  {
+    "id": 46,
+    "sku": "SKU-1046",
+    "name": "Heavy Tee",
+    "category": "Topwear",
+    "color": "Red",
+    "baseCost": 8,
+    "active": true
+  },
+  {
+    "id": 47,
+    "sku": "SKU-1047",
+    "name": "Beanie",
+    "category": "Accessories",
+    "color": "Sand",
+    "baseCost": 4,
+    "active": true
+  },
+  {
+    "id": 48,
+    "sku": "SKU-1048",
+    "name": "Crewneck",
+    "category": "Topwear",
+    "color": "Grey",
+    "baseCost": 15,
+    "active": true
+  },
+  {
+    "id": 49,
+    "sku": "SKU-1049",
+    "name": "Heavy Tee",
+    "category": "Topwear",
+    "color": "White",
+    "baseCost": 8,
+    "active": true
+  },
+  {
+    "id": 50,
+    "sku": "SKU-1050",
+    "name": "Shorts",
+    "category": "Bottomwear",
+    "color": "Grey",
+    "baseCost": 11,
+    "active": true
+  },
+  {
+    "id": 51,
+    "sku": "SKU-1051",
+    "name": "Cap",
+    "category": "Accessories",
+    "color": "Brown",
+    "baseCost": 5,
+    "active": true
+  },
+  {
+    "id": 52,
+    "sku": "SKU-1052",
+    "name": "Shorts",
+    "category": "Bottomwear",
+    "color": "Brown",
+    "baseCost": 11,
+    "active": true
+  },
+  {
+    "id": 53,
+    "sku": "SKU-1053",
+    "name": "Denim Jacket",
+    "category": "Outerwear",
+    "color": "Grey",
+    "baseCost": 24,
+    "active": true
+  },
+  {
+    "id": 54,
+    "sku": "SKU-1054",
+    "name": "Cargo Pants",
+    "category": "Bottomwear",
+    "color": "Navy",
+    "baseCost": 16,
+    "active": true
+  },
+  {
+    "id": 55,
+    "sku": "SKU-1055",
+    "name": "Crewneck",
+    "category": "Topwear",
+    "color": "White",
+    "baseCost": 15,
+    "active": true
+  },
+  {
+    "id": 56,
+    "sku": "SKU-1056",
+    "name": "Beanie",
+    "category": "Accessories",
+    "color": "Black",
+    "baseCost": 4,
+    "active": true
+  },
+  {
+    "id": 57,
+    "sku": "SKU-1057",
+    "name": "Oversized Hoodie",
+    "category": "Topwear",
+    "color": "Sand",
+    "baseCost": 18,
+    "active": true
+  },
+  {
+    "id": 58,
+    "sku": "SKU-1058",
+    "name": "Cargo Pants",
+    "category": "Bottomwear",
+    "color": "Grey",
+    "baseCost": 16,
+    "active": true
+  },
+  {
+    "id": 59,
+    "sku": "SKU-1059",
+    "name": "Shorts",
+    "category": "Bottomwear",
+    "color": "Blue",
+    "baseCost": 11,
+    "active": true
+  },
+  {
+    "id": 60,
+    "sku": "SKU-1060",
+    "name": "Cargo Pants",
+    "category": "Bottomwear",
+    "color": "Blue",
+    "baseCost": 16,
+    "active": true
+  },
+  {
+    "id": 61,
+    "sku": "SKU-1061",
+    "name": "Oversized Hoodie",
+    "category": "Topwear",
+    "color": "White",
+    "baseCost": 18,
+    "active": true
+  },
+  {
+    "id": 62,
+    "sku": "SKU-1062",
+    "name": "Cap",
+    "category": "Accessories",
+    "color": "Black",
+    "baseCost": 5,
+    "active": true
+  },
+  {
+    "id": 63,
+    "sku": "SKU-1063",
+    "name": "Cap",
+    "category": "Accessories",
+    "color": "Blue",
+    "baseCost": 5,
+    "active": true
+  },
+  {
+    "id": 64,
+    "sku": "SKU-1064",
+    "name": "Shorts",
+    "category": "Bottomwear",
+    "color": "Cream",
+    "baseCost": 11,
+    "active": true
+  },
+  {
+    "id": 65,
+    "sku": "SKU-1065",
+    "name": "Cargo Pants",
+    "category": "Bottomwear",
+    "color": "Navy",
+    "baseCost": 16,
+    "active": true
+  },
+  {
+    "id": 66,
+    "sku": "SKU-1066",
+    "name": "Crewneck",
+    "category": "Topwear",
+    "color": "White",
+    "baseCost": 15,
+    "active": true
+  },
+  {
+    "id": 67,
+    "sku": "SKU-1067",
+    "name": "Cap",
+    "category": "Accessories",
+    "color": "Sand",
+    "baseCost": 5,
+    "active": true
+  },
+  {
+    "id": 68,
+    "sku": "SKU-1068",
+    "name": "Joggers",
+    "category": "Bottomwear",
+    "color": "Grey",
+    "baseCost": 14,
+    "active": true
+  },
+  {
+    "id": 69,
+    "sku": "SKU-1069",
+    "name": "Crewneck",
+    "category": "Topwear",
+    "color": "Sand",
+    "baseCost": 15,
+    "active": true
+  },
+  {
+    "id": 70,
+    "sku": "SKU-1070",
+    "name": "Cap",
+    "category": "Accessories",
+    "color": "Grey",
+    "baseCost": 5,
+    "active": true
+  },
+  {
+    "id": 71,
+    "sku": "SKU-1071",
+    "name": "Cargo Pants",
+    "category": "Bottomwear",
+    "color": "Navy",
+    "baseCost": 16,
+    "active": true
+  },
+  {
+    "id": 72,
+    "sku": "SKU-1072",
+    "name": "Cargo Pants",
+    "category": "Bottomwear",
+    "color": "Navy",
+    "baseCost": 16,
+    "active": true
+  },
+  {
+    "id": 73,
+    "sku": "SKU-1073",
+    "name": "Cap",
+    "category": "Accessories",
+    "color": "Red",
+    "baseCost": 5,
+    "active": true
+  },
+  {
+    "id": 74,
+    "sku": "SKU-1074",
+    "name": "Cargo Pants",
+    "category": "Bottomwear",
+    "color": "Brown",
+    "baseCost": 16,
+    "active": true
+  },
+  {
+    "id": 75,
+    "sku": "SKU-1075",
+    "name": "Cargo Pants",
+    "category": "Bottomwear",
+    "color": "Olive",
+    "baseCost": 16,
+    "active": true
+  },
+  {
+    "id": 76,
+    "sku": "SKU-1076",
+    "name": "Puffer Jacket",
+    "category": "Outerwear",
+    "color": "Cream",
+    "baseCost": 38,
+    "active": true
+  },
+  {
+    "id": 77,
+    "sku": "SKU-1077",
+    "name": "Cargo Pants",
+    "category": "Bottomwear",
+    "color": "Black",
+    "baseCost": 16,
+    "active": true
+  },
+  {
+    "id": 78,
+    "sku": "SKU-1078",
+    "name": "Oversized Hoodie",
+    "category": "Topwear",
+    "color": "Sand",
+    "baseCost": 18,
+    "active": true
+  },
+  {
+    "id": 79,
+    "sku": "SKU-1079",
+    "name": "Joggers",
+    "category": "Bottomwear",
+    "color": "Navy",
+    "baseCost": 14,
+    "active": true
+  },
+  {
+    "id": 80,
+    "sku": "SKU-1080",
+    "name": "Beanie",
+    "category": "Accessories",
+    "color": "Brown",
+    "baseCost": 4,
+    "active": true
+  },
+  {
+    "id": 81,
+    "sku": "SKU-1081",
+    "name": "Oversized Hoodie",
+    "category": "Topwear",
+    "color": "White",
+    "baseCost": 18,
+    "active": true
+  },
+  {
+    "id": 82,
+    "sku": "SKU-1082",
+    "name": "Denim Jacket",
+    "category": "Outerwear",
+    "color": "Grey",
+    "baseCost": 24,
+    "active": true
+  },
+  {
+    "id": 83,
+    "sku": "SKU-1083",
+    "name": "Denim Jacket",
+    "category": "Outerwear",
+    "color": "Sand",
+    "baseCost": 24,
+    "active": true
+  },
+  {
+    "id": 84,
+    "sku": "SKU-1084",
+    "name": "Cap",
+    "category": "Accessories",
+    "color": "Blue",
+    "baseCost": 5,
+    "active": true
+  },
+  {
+    "id": 85,
+    "sku": "SKU-1085",
+    "name": "Heavy Tee",
+    "category": "Topwear",
+    "color": "Black",
+    "baseCost": 8,
+    "active": true
+  },
+  {
+    "id": 86,
+    "sku": "SKU-1086",
+    "name": "Joggers",
+    "category": "Bottomwear",
+    "color": "White",
+    "baseCost": 14,
+    "active": true
+  },
+  {
+    "id": 87,
+    "sku": "SKU-1087",
+    "name": "Crewneck",
+    "category": "Topwear",
+    "color": "Grey",
+    "baseCost": 15,
+    "active": true
+  },
+  {
+    "id": 88,
+    "sku": "SKU-1088",
+    "name": "Cargo Pants",
+    "category": "Bottomwear",
+    "color": "Brown",
+    "baseCost": 16,
+    "active": true
+  },
+  {
+    "id": 89,
+    "sku": "SKU-1089",
+    "name": "Cargo Pants",
+    "category": "Bottomwear",
+    "color": "Sand",
+    "baseCost": 16,
+    "active": true
+  },
+  {
+    "id": 90,
+    "sku": "SKU-1090",
+    "name": "Cap",
+    "category": "Accessories",
+    "color": "Black",
+    "baseCost": 5,
+    "active": true
+  },
+  {
+    "id": 91,
+    "sku": "SKU-1091",
+    "name": "Denim Jacket",
+    "category": "Outerwear",
+    "color": "White",
+    "baseCost": 24,
+    "active": true
+  },
+  {
+    "id": 92,
+    "sku": "SKU-1092",
+    "name": "Cap",
+    "category": "Accessories",
+    "color": "Sand",
+    "baseCost": 5,
+    "active": true
+  },
+  {
+    "id": 93,
+    "sku": "SKU-1093",
+    "name": "Joggers",
+    "category": "Bottomwear",
+    "color": "Cream",
+    "baseCost": 14,
+    "active": true
+  },
+  {
+    "id": 94,
+    "sku": "SKU-1094",
+    "name": "Crewneck",
+    "category": "Topwear",
+    "color": "Blue",
+    "baseCost": 15,
+    "active": true
+  },
+  {
+    "id": 95,
+    "sku": "SKU-1095",
+    "name": "Shorts",
+    "category": "Bottomwear",
+    "color": "White",
+    "baseCost": 11,
+    "active": true
+  },
+  {
+    "id": 96,
+    "sku": "SKU-1096",
+    "name": "Denim Jacket",
+    "category": "Outerwear",
+    "color": "Sand",
+    "baseCost": 24,
+    "active": true
+  },
+  {
+    "id": 97,
+    "sku": "SKU-1097",
+    "name": "Cap",
+    "category": "Accessories",
+    "color": "Blue",
+    "baseCost": 5,
+    "active": true
+  },
+  {
+    "id": 98,
+    "sku": "SKU-1098",
+    "name": "Denim Jacket",
+    "category": "Outerwear",
+    "color": "White",
+    "baseCost": 24,
+    "active": true
+  },
+  {
+    "id": 99,
+    "sku": "SKU-1099",
+    "name": "Beanie",
+    "category": "Accessories",
+    "color": "Blue",
+    "baseCost": 4,
+    "active": true
+  },
+  {
+    "id": 100,
+    "sku": "SKU-1100",
+    "name": "Beanie",
+    "category": "Accessories",
+    "color": "White",
+    "baseCost": 4,
+    "active": true
+  },
+  {
+    "id": 101,
+    "sku": "SKU-1101",
+    "name": "Denim Jacket",
+    "category": "Outerwear",
+    "color": "Brown",
+    "baseCost": 24,
+    "active": true
+  },
+  {
+    "id": 102,
+    "sku": "SKU-1102",
+    "name": "Crewneck",
+    "category": "Topwear",
+    "color": "Black",
+    "baseCost": 15,
+    "active": true
+  },
+  {
+    "id": 103,
+    "sku": "SKU-1103",
+    "name": "Beanie",
+    "category": "Accessories",
+    "color": "Sand",
+    "baseCost": 4,
+    "active": true
+  },
+  {
+    "id": 104,
+    "sku": "SKU-1104",
+    "name": "Heavy Tee",
+    "category": "Topwear",
+    "color": "Brown",
+    "baseCost": 8,
+    "active": true
+  },
+  {
+    "id": 105,
+    "sku": "SKU-1105",
+    "name": "Shorts",
+    "category": "Bottomwear",
+    "color": "Black",
+    "baseCost": 11,
+    "active": true
+  },
+  {
+    "id": 106,
+    "sku": "SKU-1106",
+    "name": "Beanie",
+    "category": "Accessories",
+    "color": "Olive",
+    "baseCost": 4,
+    "active": true
+  },
+  {
+    "id": 107,
+    "sku": "SKU-1107",
+    "name": "Denim Jacket",
+    "category": "Outerwear",
+    "color": "Brown",
+    "baseCost": 24,
+    "active": true
+  },
+  {
+    "id": 108,
+    "sku": "SKU-1108",
+    "name": "Shorts",
+    "category": "Bottomwear",
+    "color": "Cream",
+    "baseCost": 11,
+    "active": true
+  },
+  {
+    "id": 109,
+    "sku": "SKU-1109",
+    "name": "Oversized Hoodie",
+    "category": "Topwear",
+    "color": "Sand",
+    "baseCost": 18,
+    "active": true
+  },
+  {
+    "id": 110,
+    "sku": "SKU-1110",
+    "name": "Denim Jacket",
+    "category": "Outerwear",
+    "color": "Grey",
+    "baseCost": 24,
+    "active": true
+  },
+  {
+    "id": 111,
+    "sku": "SKU-1111",
+    "name": "Cargo Pants",
+    "category": "Bottomwear",
+    "color": "Black",
+    "baseCost": 16,
+    "active": true
+  },
+  {
+    "id": 112,
+    "sku": "SKU-1112",
+    "name": "Denim Jacket",
+    "category": "Outerwear",
+    "color": "Blue",
+    "baseCost": 24,
+    "active": true
+  },
+  {
+    "id": 113,
+    "sku": "SKU-1113",
+    "name": "Puffer Jacket",
+    "category": "Outerwear",
+    "color": "Olive",
+    "baseCost": 38,
+    "active": true
+  },
+  {
+    "id": 114,
+    "sku": "SKU-1114",
+    "name": "Beanie",
+    "category": "Accessories",
+    "color": "Brown",
+    "baseCost": 4,
+    "active": true
+  },
+  {
+    "id": 115,
+    "sku": "SKU-1115",
+    "name": "Denim Jacket",
+    "category": "Outerwear",
+    "color": "Red",
+    "baseCost": 24,
+    "active": true
+  },
+  {
+    "id": 116,
+    "sku": "SKU-1116",
+    "name": "Shorts",
+    "category": "Bottomwear",
+    "color": "Blue",
+    "baseCost": 11,
+    "active": true
+  },
+  {
+    "id": 117,
+    "sku": "SKU-1117",
+    "name": "Oversized Hoodie",
+    "category": "Topwear",
+    "color": "Navy",
+    "baseCost": 18,
+    "active": true
+  },
+  {
+    "id": 118,
+    "sku": "SKU-1118",
+    "name": "Beanie",
+    "category": "Accessories",
+    "color": "Sand",
+    "baseCost": 4,
+    "active": true
+  },
+  {
+    "id": 119,
+    "sku": "SKU-1119",
+    "name": "Joggers",
+    "category": "Bottomwear",
+    "color": "Black",
+    "baseCost": 14,
+    "active": true
+  },
+  {
+    "id": 120,
+    "sku": "SKU-1120",
+    "name": "Cap",
+    "category": "Accessories",
+    "color": "Red",
+    "baseCost": 5,
+    "active": true
+  }
+]

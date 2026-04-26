@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Admin User",
+    "email": "admin@apparel.com",
+    "password": "1234",
+    "role": "Admin"
+  },
+  {
+    "id": 2,
+    "name": "Staff User",
+    "email": "staff@apparel.com",
+    "password": "1234",
+    "role": "Staff"
+  },
+  {
+    "id": 3,
+    "name": "Viewer User",
+    "email": "viewer@apparel.com",
+    "password": "1234",
+    "role": "Viewer"
+  }
+]

@@ -1,0 +1,6967 @@
+[
+  {
+    "id": 1,
+    "orderItemId": 1,
+    "freight": 2336,
+    "tariffPct": 6,
+    "misc": 500
+  },
+  {
+    "id": 2,
+    "orderItemId": 2,
+    "freight": 1903,
+    "tariffPct": 6,
+    "misc": 207
+  },
+  {
+    "id": 3,
+    "orderItemId": 3,
+    "freight": 2931,
+    "tariffPct": 4,
+    "misc": 197
+  },
+  {
+    "id": 4,
+    "orderItemId": 4,
+    "freight": 1340,
+    "tariffPct": 16,
+    "misc": 91
+  },
+  {
+    "id": 5,
+    "orderItemId": 5,
+    "freight": 2758,
+    "tariffPct": 10,
+    "misc": 451
+  },
+  {
+    "id": 6,
+    "orderItemId": 6,
+    "freight": 716,
+    "tariffPct": 9,
+    "misc": 446
+  },
+  {
+    "id": 7,
+    "orderItemId": 7,
+    "freight": 627,
+    "tariffPct": 0,
+    "misc": 386
+  },
+  {
+    "id": 8,
+    "orderItemId": 8,
+    "freight": 519,
+    "tariffPct": 0,
+    "misc": 143
+  },
+  {
+    "id": 9,
+    "orderItemId": 9,
+    "freight": 2858,
+    "tariffPct": 6,
+    "misc": 441
+  },
+  {
+    "id": 10,
+    "orderItemId": 10,
+    "freight": 390,
+    "tariffPct": 1,
+    "misc": 263
+  },
+  {
+    "id": 11,
+    "orderItemId": 11,
+    "freight": 2205,
+    "tariffPct": 7,
+    "misc": 234
+  },
+  {
+    "id": 12,
+    "orderItemId": 12,
+    "freight": 2254,
+    "tariffPct": 1,
+    "misc": 277
+  },
+  {
+    "id": 13,
+    "orderItemId": 13,
+    "freight": 422,
+    "tariffPct": 12,
+    "misc": 242
+  },
+  {
+    "id": 14,
+    "orderItemId": 14,
+    "freight": 2463,
+    "tariffPct": 17,
+    "misc": 434
+  },
+  {
+    "id": 15,
+    "orderItemId": 15,
+    "freight": 1762,
+    "tariffPct": 2,
+    "misc": 198
+  },
+  {
+    "id": 16,
+    "orderItemId": 16,
+    "freight": 1899,
+    "tariffPct": 2,
+    "misc": 138
+  },
+  {
+    "id": 17,
+    "orderItemId": 17,
+    "freight": 1346,
+    "tariffPct": 12,
+    "misc": 273
+  },
+  {
+    "id": 18,
+    "orderItemId": 18,
+    "freight": 2405,
+    "tariffPct": 12,
+    "misc": 306
+  },
+  {
+    "id": 19,
+    "orderItemId": 19,
+    "freight": 1078,
+    "tariffPct": 1,
+    "misc": 82
+  },
+  {
+    "id": 20,
+    "orderItemId": 20,
+    "freight": 2450,
+    "tariffPct": 4,
+    "misc": 355
+  },
+  {
+    "id": 21,
+    "orderItemId": 21,
+    "freight": 1949,
+    "tariffPct": 6,
+    "misc": 331
+  },
+  {
+    "id": 22,
+    "orderItemId": 22,
+    "freight": 1116,
+    "tariffPct": 9,
+    "misc": 439
+  },
+  {
+    "id": 23,
+    "orderItemId": 23,
+    "freight": 827,
+    "tariffPct": 11,
+    "misc": 268
+  },
+  {
+    "id": 24,
+    "orderItemId": 24,
+    "freight": 448,
+    "tariffPct": 2,
+    "misc": 256
+  },
+  {
+    "id": 25,
+    "orderItemId": 25,
+    "freight": 1500,
+    "tariffPct": 18,
+    "misc": 279
+  },
+  {
+    "id": 26,
+    "orderItemId": 26,
+    "freight": 2406,
+    "tariffPct": 0,
+    "misc": 63
+  },
+  {
+    "id": 27,
+    "orderItemId": 27,
+    "freight": 261,
+    "tariffPct": 15,
+    "misc": 457
+  },
+  {
+    "id": 28,
+    "orderItemId": 28,
+    "freight": 1292,
+    "tariffPct": 13,
+    "misc": 72
+  },
+  {
+    "id": 29,
+    "orderItemId": 29,
+    "freight": 2812,
+    "tariffPct": 4,
+    "misc": 191
+  },
+  {
+    "id": 30,
+    "orderItemId": 30,
+    "freight": 2917,
+    "tariffPct": 1,
+    "misc": 460
+  },
+  {
+    "id": 31,
+    "orderItemId": 31,
+    "freight": 486,
+    "tariffPct": 14,
+    "misc": 355
+  },
+  {
+    "id": 32,
+    "orderItemId": 32,
+    "freight": 2060,
+    "tariffPct": 18,
+    "misc": 86
+  },
+  {
+    "id": 33,
+    "orderItemId": 33,
+    "freight": 2759,
+    "tariffPct": 8,
+    "misc": 174
+  },
+  {
+    "id": 34,
+    "orderItemId": 34,
+    "freight": 1146,
+    "tariffPct": 11,
+    "misc": 286
+  },
+  {
+    "id": 35,
+    "orderItemId": 35,
+    "freight": 1814,
+    "tariffPct": 17,
+    "misc": 211
+  },
+  {
+    "id": 36,
+    "orderItemId": 36,
+    "freight": 757,
+    "tariffPct": 4,
+    "misc": 346
+  },
+  {
+    "id": 37,
+    "orderItemId": 37,
+    "freight": 2594,
+    "tariffPct": 0,
+    "misc": 138
+  },
+  {
+    "id": 38,
+    "orderItemId": 38,
+    "freight": 294,
+    "tariffPct": 15,
+    "misc": 396
+  },
+  {
+    "id": 39,
+    "orderItemId": 39,
+    "freight": 2197,
+    "tariffPct": 9,
+    "misc": 120
+  },
+  {
+    "id": 40,
+    "orderItemId": 40,
+    "freight": 2624,
+    "tariffPct": 3,
+    "misc": 353
+  },
+  {
+    "id": 41,
+    "orderItemId": 41,
+    "freight": 2690,
+    "tariffPct": 15,
+    "misc": 150
+  },
+  {
+    "id": 42,
+    "orderItemId": 42,
+    "freight": 1514,
+    "tariffPct": 3,
+    "misc": 284
+  },
+  {
+    "id": 43,
+    "orderItemId": 43,
+    "freight": 464,
+    "tariffPct": 15,
+    "misc": 321
+  },
+  {
+    "id": 44,
+    "orderItemId": 44,
+    "freight": 696,
+    "tariffPct": 7,
+    "misc": 322
+  },
+  {
+    "id": 45,
+    "orderItemId": 45,
+    "freight": 540,
+    "tariffPct": 0,
+    "misc": 378
+  },
+  {
+    "id": 46,
+    "orderItemId": 46,
+    "freight": 2655,
+    "tariffPct": 6,
+    "misc": 66
+  },
+  {
+    "id": 47,
+    "orderItemId": 47,
+    "freight": 2558,
+    "tariffPct": 15,
+    "misc": 172
+  },
+  {
+    "id": 48,
+    "orderItemId": 48,
+    "freight": 404,
+    "tariffPct": 1,
+    "misc": 123
+  },
+  {
+    "id": 49,
+    "orderItemId": 49,
+    "freight": 1102,
+    "tariffPct": 16,
+    "misc": 166
+  },
+  {
+    "id": 50,
+    "orderItemId": 50,
+    "freight": 2418,
+    "tariffPct": 12,
+    "misc": 62
+  },
+  {
+    "id": 51,
+    "orderItemId": 51,
+    "freight": 2210,
+    "tariffPct": 1,
+    "misc": 349
+  },
+  {
+    "id": 52,
+    "orderItemId": 52,
+    "freight": 315,
+    "tariffPct": 11,
+    "misc": 275
+  },
+  {
+    "id": 53,
+    "orderItemId": 53,
+    "freight": 1663,
+    "tariffPct": 4,
+    "misc": 413
+  },
+  {
+    "id": 54,
+    "orderItemId": 54,
+    "freight": 1679,
+    "tariffPct": 17,
+    "misc": 359
+  },
+  {
+    "id": 55,
+    "orderItemId": 55,
+    "freight": 2174,
+    "tariffPct": 9,
+    "misc": 317
+  },
+  {
+    "id": 56,
+    "orderItemId": 56,
+    "freight": 2638,
+    "tariffPct": 11,
+    "misc": 91
+  },
+  {
+    "id": 57,
+    "orderItemId": 57,
+    "freight": 285,
+    "tariffPct": 3,
+    "misc": 70
+  },
+  {
+    "id": 58,
+    "orderItemId": 58,
+    "freight": 1133,
+    "tariffPct": 10,
+    "misc": 232
+  },
+  {
+    "id": 59,
+    "orderItemId": 59,
+    "freight": 1245,
+    "tariffPct": 9,
+    "misc": 224
+  },
+  {
+    "id": 60,
+    "orderItemId": 60,
+    "freight": 2044,
+    "tariffPct": 2,
+    "misc": 175
+  },
+  {
+    "id": 61,
+    "orderItemId": 61,
+    "freight": 2061,
+    "tariffPct": 6,
+    "misc": 466
+  },
+  {
+    "id": 62,
+    "orderItemId": 62,
+    "freight": 2212,
+    "tariffPct": 18,
+    "misc": 153
+  },
+  {
+    "id": 63,
+    "orderItemId": 63,
+    "freight": 2755,
+    "tariffPct": 16,
+    "misc": 437
+  },
+  {
+    "id": 64,
+    "orderItemId": 64,
+    "freight": 438,
+    "tariffPct": 16,
+    "misc": 309
+  },
+  {
+    "id": 65,
+    "orderItemId": 65,
+    "freight": 2362,
+    "tariffPct": 17,
+    "misc": 53
+  },
+  {
+    "id": 66,
+    "orderItemId": 66,
+    "freight": 2668,
+    "tariffPct": 18,
+    "misc": 316
+  },
+  {
+    "id": 67,
+    "orderItemId": 67,
+    "freight": 2216,
+    "tariffPct": 0,
+    "misc": 105
+  },
+  {
+    "id": 68,
+    "orderItemId": 68,
+    "freight": 1689,
+    "tariffPct": 8,
+    "misc": 99
+  },
+  {
+    "id": 69,
+    "orderItemId": 69,
+    "freight": 1492,
+    "tariffPct": 3,
+    "misc": 286
+  },
+  {
+    "id": 70,
+    "orderItemId": 70,
+    "freight": 919,
+    "tariffPct": 11,
+    "misc": 471
+  },
+  {
+    "id": 71,
+    "orderItemId": 71,
+    "freight": 593,
+    "tariffPct": 11,
+    "misc": 488
+  },
+  {
+    "id": 72,
+    "orderItemId": 72,
+    "freight": 1631,
+    "tariffPct": 2,
+    "misc": 466
+  },
+  {
+    "id": 73,
+    "orderItemId": 73,
+    "freight": 573,
+    "tariffPct": 5,
+    "misc": 151
+  },
+  {
+    "id": 74,
+    "orderItemId": 74,
+    "freight": 1174,
+    "tariffPct": 9,
+    "misc": 269
+  },
+  {
+    "id": 75,
+    "orderItemId": 75,
+    "freight": 2095,
+    "tariffPct": 0,
+    "misc": 450
+  },
+  {
+    "id": 76,
+    "orderItemId": 76,
+    "freight": 2105,
+    "tariffPct": 5,
+    "misc": 240
+  },
+  {
+    "id": 77,
+    "orderItemId": 77,
+    "freight": 1584,
+    "tariffPct": 4,
+    "misc": 261
+  },
+  {
+    "id": 78,
+    "orderItemId": 78,
+    "freight": 1167,
+    "tariffPct": 5,
+    "misc": 254
+  },
+  {
+    "id": 79,
+    "orderItemId": 79,
+    "freight": 579,
+    "tariffPct": 4,
+    "misc": 377
+  },
+  {
+    "id": 80,
+    "orderItemId": 80,
+    "freight": 2695,
+    "tariffPct": 16,
+    "misc": 271
+  },
+  {
+    "id": 81,
+    "orderItemId": 81,
+    "freight": 2693,
+    "tariffPct": 17,
+    "misc": 259
+  },
+  {
+    "id": 82,
+    "orderItemId": 82,
+    "freight": 2700,
+    "tariffPct": 2,
+    "misc": 65
+  },
+  {
+    "id": 83,
+    "orderItemId": 83,
+    "freight": 838,
+    "tariffPct": 6,
+    "misc": 212
+  },
+  {
+    "id": 84,
+    "orderItemId": 84,
+    "freight": 2499,
+    "tariffPct": 18,
+    "misc": 52
+  },
+  {
+    "id": 85,
+    "orderItemId": 85,
+    "freight": 1660,
+    "tariffPct": 14,
+    "misc": 414
+  },
+  {
+    "id": 86,
+    "orderItemId": 86,
+    "freight": 1477,
+    "tariffPct": 16,
+    "misc": 138
+  },
+  {
+    "id": 87,
+    "orderItemId": 87,
+    "freight": 2588,
+    "tariffPct": 1,
+    "misc": 77
+  },
+  {
+    "id": 88,
+    "orderItemId": 88,
+    "freight": 2872,
+    "tariffPct": 10,
+    "misc": 451
+  },
+  {
+    "id": 89,
+    "orderItemId": 89,
+    "freight": 816,
+    "tariffPct": 18,
+    "misc": 105
+  },
+  {
+    "id": 90,
+    "orderItemId": 90,
+    "freight": 1269,
+    "tariffPct": 14,
+    "misc": 269
+  },
+  {
+    "id": 91,
+    "orderItemId": 91,
+    "freight": 719,
+    "tariffPct": 16,
+    "misc": 144
+  },
+  {
+    "id": 92,
+    "orderItemId": 92,
+    "freight": 1211,
+    "tariffPct": 1,
+    "misc": 215
+  },
+  {
+    "id": 93,
+    "orderItemId": 93,
+    "freight": 2585,
+    "tariffPct": 18,
+    "misc": 359
+  },
+  {
+    "id": 94,
+    "orderItemId": 94,
+    "freight": 2625,
+    "tariffPct": 16,
+    "misc": 321
+  },
+  {
+    "id": 95,
+    "orderItemId": 95,
+    "freight": 1135,
+    "tariffPct": 15,
+    "misc": 166
+  },
+  {
+    "id": 96,
+    "orderItemId": 96,
+    "freight": 1618,
+    "tariffPct": 2,
+    "misc": 438
+  },
+  {
+    "id": 97,
+    "orderItemId": 97,
+    "freight": 427,
+    "tariffPct": 15,
+    "misc": 144
+  },
+  {
+    "id": 98,
+    "orderItemId": 98,
+    "freight": 732,
+    "tariffPct": 10,
+    "misc": 463
+  },
+  {
+    "id": 99,
+    "orderItemId": 99,
+    "freight": 1989,
+    "tariffPct": 16,
+    "misc": 296
+  },
+  {
+    "id": 100,
+    "orderItemId": 100,
+    "freight": 2350,
+    "tariffPct": 15,
+    "misc": 127
+  },
+  {
+    "id": 101,
+    "orderItemId": 101,
+    "freight": 496,
+    "tariffPct": 14,
+    "misc": 74
+  },
+  {
+    "id": 102,
+    "orderItemId": 102,
+    "freight": 2342,
+    "tariffPct": 15,
+    "misc": 372
+  },
+  {
+    "id": 103,
+    "orderItemId": 103,
+    "freight": 1578,
+    "tariffPct": 18,
+    "misc": 94
+  },
+  {
+    "id": 104,
+    "orderItemId": 104,
+    "freight": 2268,
+    "tariffPct": 9,
+    "misc": 265
+  },
+  {
+    "id": 105,
+    "orderItemId": 105,
+    "freight": 1564,
+    "tariffPct": 9,
+    "misc": 400
+  },
+  {
+    "id": 106,
+    "orderItemId": 106,
+    "freight": 2050,
+    "tariffPct": 2,
+    "misc": 84
+  },
+  {
+    "id": 107,
+    "orderItemId": 107,
+    "freight": 465,
+    "tariffPct": 16,
+    "misc": 164
+  },
+  {
+    "id": 108,
+    "orderItemId": 108,
+    "freight": 1086,
+    "tariffPct": 14,
+    "misc": 421
+  },
+  {
+    "id": 109,
+    "orderItemId": 109,
+    "freight": 1539,
+    "tariffPct": 12,
+    "misc": 233
+  },
+  {
+    "id": 110,
+    "orderItemId": 110,
+    "freight": 2086,
+    "tariffPct": 8,
+    "misc": 471
+  },
+  {
+    "id": 111,
+    "orderItemId": 111,
+    "freight": 932,
+    "tariffPct": 13,
+    "misc": 425
+  },
+  {
+    "id": 112,
+    "orderItemId": 112,
+    "freight": 261,
+    "tariffPct": 14,
+    "misc": 298
+  },
+  {
+    "id": 113,
+    "orderItemId": 113,
+    "freight": 1329,
+    "tariffPct": 6,
+    "misc": 131
+  },
+  {
+    "id": 114,
+    "orderItemId": 114,
+    "freight": 2439,
+    "tariffPct": 4,
+    "misc": 173
+  },
+  {
+    "id": 115,
+    "orderItemId": 115,
+    "freight": 639,
+    "tariffPct": 8,
+    "misc": 367
+  },
+  {
+    "id": 116,
+    "orderItemId": 116,
+    "freight": 1932,
+    "tariffPct": 0,
+    "misc": 280
+  },
+  {
+    "id": 117,
+    "orderItemId": 117,
+    "freight": 1137,
+    "tariffPct": 15,
+    "misc": 184
+  },
+  {
+    "id": 118,
+    "orderItemId": 118,
+    "freight": 2981,
+    "tariffPct": 2,
+    "misc": 453
+  },
+  {
+    "id": 119,
+    "orderItemId": 119,
+    "freight": 1724,
+    "tariffPct": 15,
+    "misc": 315
+  },
+  {
+    "id": 120,
+    "orderItemId": 120,
+    "freight": 1154,
+    "tariffPct": 9,
+    "misc": 428
+  },
+  {
+    "id": 121,
+    "orderItemId": 121,
+    "freight": 762,
+    "tariffPct": 6,
+    "misc": 232
+  },
+  {
+    "id": 122,
+    "orderItemId": 122,
+    "freight": 1271,
+    "tariffPct": 13,
+    "misc": 144
+  },
+  {
+    "id": 123,
+    "orderItemId": 123,
+    "freight": 237,
+    "tariffPct": 2,
+    "misc": 473
+  },
+  {
+    "id": 124,
+    "orderItemId": 124,
+    "freight": 1636,
+    "tariffPct": 12,
+    "misc": 188
+  },
+  {
+    "id": 125,
+    "orderItemId": 125,
+    "freight": 1778,
+    "tariffPct": 14,
+    "misc": 292
+  },
+  {
+    "id": 126,
+    "orderItemId": 126,
+    "freight": 1301,
+    "tariffPct": 15,
+    "misc": 414
+  },
+  {
+    "id": 127,
+    "orderItemId": 127,
+    "freight": 2386,
+    "tariffPct": 9,
+    "misc": 332
+  },
+  {
+    "id": 128,
+    "orderItemId": 128,
+    "freight": 2837,
+    "tariffPct": 5,
+    "misc": 86
+  },
+  {
+    "id": 129,
+    "orderItemId": 129,
+    "freight": 837,
+    "tariffPct": 17,
+    "misc": 241
+  },
+  {
+    "id": 130,
+    "orderItemId": 130,
+    "freight": 808,
+    "tariffPct": 10,
+    "misc": 116
+  },
+  {
+    "id": 131,
+    "orderItemId": 131,
+    "freight": 1577,
+    "tariffPct": 5,
+    "misc": 224
+  },
+  {
+    "id": 132,
+    "orderItemId": 132,
+    "freight": 1744,
+    "tariffPct": 14,
+    "misc": 476
+  },
+  {
+    "id": 133,
+    "orderItemId": 133,
+    "freight": 768,
+    "tariffPct": 17,
+    "misc": 68
+  },
+  {
+    "id": 134,
+    "orderItemId": 134,
+    "freight": 547,
+    "tariffPct": 7,
+    "misc": 445
+  },
+  {
+    "id": 135,
+    "orderItemId": 135,
+    "freight": 2420,
+    "tariffPct": 11,
+    "misc": 129
+  },
+  {
+    "id": 136,
+    "orderItemId": 136,
+    "freight": 247,
+    "tariffPct": 11,
+    "misc": 367
+  },
+  {
+    "id": 137,
+    "orderItemId": 137,
+    "freight": 2232,
+    "tariffPct": 9,
+    "misc": 346
+  },
+  {
+    "id": 138,
+    "orderItemId": 138,
+    "freight": 1850,
+    "tariffPct": 7,
+    "misc": 294
+  },
+  {
+    "id": 139,
+    "orderItemId": 139,
+    "freight": 2800,
+    "tariffPct": 13,
+    "misc": 195
+  },
+  {
+    "id": 140,
+    "orderItemId": 140,
+    "freight": 2260,
+    "tariffPct": 8,
+    "misc": 298
+  },
+  {
+    "id": 141,
+    "orderItemId": 141,
+    "freight": 2235,
+    "tariffPct": 12,
+    "misc": 447
+  },
+  {
+    "id": 142,
+    "orderItemId": 142,
+    "freight": 2389,
+    "tariffPct": 15,
+    "misc": 70
+  },
+  {
+    "id": 143,
+    "orderItemId": 143,
+    "freight": 568,
+    "tariffPct": 7,
+    "misc": 477
+  },
+  {
+    "id": 144,
+    "orderItemId": 144,
+    "freight": 218,
+    "tariffPct": 11,
+    "misc": 170
+  },
+  {
+    "id": 145,
+    "orderItemId": 145,
+    "freight": 1762,
+    "tariffPct": 2,
+    "misc": 389
+  },
+  {
+    "id": 146,
+    "orderItemId": 146,
+    "freight": 1208,
+    "tariffPct": 13,
+    "misc": 397
+  },
+  {
+    "id": 147,
+    "orderItemId": 147,
+    "freight": 2986,
+    "tariffPct": 10,
+    "misc": 267
+  },
+  {
+    "id": 148,
+    "orderItemId": 148,
+    "freight": 1692,
+    "tariffPct": 13,
+    "misc": 167
+  },
+  {
+    "id": 149,
+    "orderItemId": 149,
+    "freight": 1065,
+    "tariffPct": 2,
+    "misc": 132
+  },
+  {
+    "id": 150,
+    "orderItemId": 150,
+    "freight": 1551,
+    "tariffPct": 3,
+    "misc": 60
+  },
+  {
+    "id": 151,
+    "orderItemId": 151,
+    "freight": 1838,
+    "tariffPct": 2,
+    "misc": 409
+  },
+  {
+    "id": 152,
+    "orderItemId": 152,
+    "freight": 2364,
+    "tariffPct": 10,
+    "misc": 379
+  },
+  {
+    "id": 153,
+    "orderItemId": 153,
+    "freight": 262,
+    "tariffPct": 18,
+    "misc": 225
+  },
+  {
+    "id": 154,
+    "orderItemId": 154,
+    "freight": 2848,
+    "tariffPct": 11,
+    "misc": 291
+  },
+  {
+    "id": 155,
+    "orderItemId": 155,
+    "freight": 2836,
+    "tariffPct": 1,
+    "misc": 408
+  },
+  {
+    "id": 156,
+    "orderItemId": 156,
+    "freight": 2009,
+    "tariffPct": 1,
+    "misc": 352
+  },
+  {
+    "id": 157,
+    "orderItemId": 157,
+    "freight": 2651,
+    "tariffPct": 2,
+    "misc": 261
+  },
+  {
+    "id": 158,
+    "orderItemId": 158,
+    "freight": 581,
+    "tariffPct": 10,
+    "misc": 180
+  },
+  {
+    "id": 159,
+    "orderItemId": 159,
+    "freight": 314,
+    "tariffPct": 9,
+    "misc": 436
+  },
+  {
+    "id": 160,
+    "orderItemId": 160,
+    "freight": 473,
+    "tariffPct": 8,
+    "misc": 77
+  },
+  {
+    "id": 161,
+    "orderItemId": 161,
+    "freight": 1140,
+    "tariffPct": 6,
+    "misc": 478
+  },
+  {
+    "id": 162,
+    "orderItemId": 162,
+    "freight": 1271,
+    "tariffPct": 1,
+    "misc": 233
+  },
+  {
+    "id": 163,
+    "orderItemId": 163,
+    "freight": 2665,
+    "tariffPct": 12,
+    "misc": 170
+  },
+  {
+    "id": 164,
+    "orderItemId": 164,
+    "freight": 1190,
+    "tariffPct": 1,
+    "misc": 464
+  },
+  {
+    "id": 165,
+    "orderItemId": 165,
+    "freight": 1855,
+    "tariffPct": 8,
+    "misc": 331
+  },
+  {
+    "id": 166,
+    "orderItemId": 166,
+    "freight": 2564,
+    "tariffPct": 3,
+    "misc": 79
+  },
+  {
+    "id": 167,
+    "orderItemId": 167,
+    "freight": 1533,
+    "tariffPct": 9,
+    "misc": 356
+  },
+  {
+    "id": 168,
+    "orderItemId": 168,
+    "freight": 1422,
+    "tariffPct": 1,
+    "misc": 268
+  },
+  {
+    "id": 169,
+    "orderItemId": 169,
+    "freight": 300,
+    "tariffPct": 2,
+    "misc": 108
+  },
+  {
+    "id": 170,
+    "orderItemId": 170,
+    "freight": 1161,
+    "tariffPct": 3,
+    "misc": 180
+  },
+  {
+    "id": 171,
+    "orderItemId": 171,
+    "freight": 2571,
+    "tariffPct": 15,
+    "misc": 478
+  },
+  {
+    "id": 172,
+    "orderItemId": 172,
+    "freight": 2696,
+    "tariffPct": 3,
+    "misc": 500
+  },
+  {
+    "id": 173,
+    "orderItemId": 173,
+    "freight": 2824,
+    "tariffPct": 2,
+    "misc": 429
+  },
+  {
+    "id": 174,
+    "orderItemId": 174,
+    "freight": 2092,
+    "tariffPct": 1,
+    "misc": 271
+  },
+  {
+    "id": 175,
+    "orderItemId": 175,
+    "freight": 2023,
+    "tariffPct": 13,
+    "misc": 58
+  },
+  {
+    "id": 176,
+    "orderItemId": 176,
+    "freight": 2364,
+    "tariffPct": 1,
+    "misc": 243
+  },
+  {
+    "id": 177,
+    "orderItemId": 177,
+    "freight": 1313,
+    "tariffPct": 10,
+    "misc": 436
+  },
+  {
+    "id": 178,
+    "orderItemId": 178,
+    "freight": 555,
+    "tariffPct": 6,
+    "misc": 348
+  },
+  {
+    "id": 179,
+    "orderItemId": 179,
+    "freight": 720,
+    "tariffPct": 5,
+    "misc": 244
+  },
+  {
+    "id": 180,
+    "orderItemId": 180,
+    "freight": 1744,
+    "tariffPct": 7,
+    "misc": 243
+  },
+  {
+    "id": 181,
+    "orderItemId": 181,
+    "freight": 2474,
+    "tariffPct": 8,
+    "misc": 265
+  },
+  {
+    "id": 182,
+    "orderItemId": 182,
+    "freight": 535,
+    "tariffPct": 13,
+    "misc": 368
+  },
+  {
+    "id": 183,
+    "orderItemId": 183,
+    "freight": 1787,
+    "tariffPct": 4,
+    "misc": 496
+  },
+  {
+    "id": 184,
+    "orderItemId": 184,
+    "freight": 432,
+    "tariffPct": 10,
+    "misc": 179
+  },
+  {
+    "id": 185,
+    "orderItemId": 185,
+    "freight": 1006,
+    "tariffPct": 5,
+    "misc": 67
+  },
+  {
+    "id": 186,
+    "orderItemId": 186,
+    "freight": 798,
+    "tariffPct": 15,
+    "misc": 293
+  },
+  {
+    "id": 187,
+    "orderItemId": 187,
+    "freight": 2229,
+    "tariffPct": 2,
+    "misc": 307
+  },
+  {
+    "id": 188,
+    "orderItemId": 188,
+    "freight": 1985,
+    "tariffPct": 14,
+    "misc": 364
+  },
+  {
+    "id": 189,
+    "orderItemId": 189,
+    "freight": 1597,
+    "tariffPct": 3,
+    "misc": 417
+  },
+  {
+    "id": 190,
+    "orderItemId": 190,
+    "freight": 970,
+    "tariffPct": 16,
+    "misc": 377
+  },
+  {
+    "id": 191,
+    "orderItemId": 191,
+    "freight": 645,
+    "tariffPct": 5,
+    "misc": 313
+  },
+  {
+    "id": 192,
+    "orderItemId": 192,
+    "freight": 2840,
+    "tariffPct": 17,
+    "misc": 388
+  },
+  {
+    "id": 193,
+    "orderItemId": 193,
+    "freight": 1619,
+    "tariffPct": 11,
+    "misc": 96
+  },
+  {
+    "id": 194,
+    "orderItemId": 194,
+    "freight": 2713,
+    "tariffPct": 7,
+    "misc": 156
+  },
+  {
+    "id": 195,
+    "orderItemId": 195,
+    "freight": 748,
+    "tariffPct": 14,
+    "misc": 143
+  },
+  {
+    "id": 196,
+    "orderItemId": 196,
+    "freight": 1372,
+    "tariffPct": 7,
+    "misc": 246
+  },
+  {
+    "id": 197,
+    "orderItemId": 197,
+    "freight": 2030,
+    "tariffPct": 13,
+    "misc": 62
+  },
+  {
+    "id": 198,
+    "orderItemId": 198,
+    "freight": 1152,
+    "tariffPct": 10,
+    "misc": 193
+  },
+  {
+    "id": 199,
+    "orderItemId": 199,
+    "freight": 1827,
+    "tariffPct": 1,
+    "misc": 379
+  },
+  {
+    "id": 200,
+    "orderItemId": 200,
+    "freight": 592,
+    "tariffPct": 17,
+    "misc": 165
+  },
+  {
+    "id": 201,
+    "orderItemId": 201,
+    "freight": 2916,
+    "tariffPct": 3,
+    "misc": 313
+  },
+  {
+    "id": 202,
+    "orderItemId": 202,
+    "freight": 596,
+    "tariffPct": 18,
+    "misc": 398
+  },
+  {
+    "id": 203,
+    "orderItemId": 203,
+    "freight": 1818,
+    "tariffPct": 0,
+    "misc": 240
+  },
+  {
+    "id": 204,
+    "orderItemId": 204,
+    "freight": 2112,
+    "tariffPct": 2,
+    "misc": 426
+  },
+  {
+    "id": 205,
+    "orderItemId": 205,
+    "freight": 2192,
+    "tariffPct": 8,
+    "misc": 315
+  },
+  {
+    "id": 206,
+    "orderItemId": 206,
+    "freight": 938,
+    "tariffPct": 9,
+    "misc": 72
+  },
+  {
+    "id": 207,
+    "orderItemId": 207,
+    "freight": 1770,
+    "tariffPct": 11,
+    "misc": 95
+  },
+  {
+    "id": 208,
+    "orderItemId": 208,
+    "freight": 2347,
+    "tariffPct": 14,
+    "misc": 134
+  },
+  {
+    "id": 209,
+    "orderItemId": 209,
+    "freight": 1880,
+    "tariffPct": 3,
+    "misc": 329
+  },
+  {
+    "id": 210,
+    "orderItemId": 210,
+    "freight": 1044,
+    "tariffPct": 17,
+    "misc": 168
+  },
+  {
+    "id": 211,
+    "orderItemId": 211,
+    "freight": 1000,
+    "tariffPct": 13,
+    "misc": 81
+  },
+  {
+    "id": 212,
+    "orderItemId": 212,
+    "freight": 1452,
+    "tariffPct": 12,
+    "misc": 445
+  },
+  {
+    "id": 213,
+    "orderItemId": 213,
+    "freight": 1024,
+    "tariffPct": 16,
+    "misc": 66
+  },
+  {
+    "id": 214,
+    "orderItemId": 214,
+    "freight": 699,
+    "tariffPct": 2,
+    "misc": 197
+  },
+  {
+    "id": 215,
+    "orderItemId": 215,
+    "freight": 1094,
+    "tariffPct": 10,
+    "misc": 310
+  },
+  {
+    "id": 216,
+    "orderItemId": 216,
+    "freight": 2421,
+    "tariffPct": 10,
+    "misc": 220
+  },
+  {
+    "id": 217,
+    "orderItemId": 217,
+    "freight": 877,
+    "tariffPct": 18,
+    "misc": 457
+  },
+  {
+    "id": 218,
+    "orderItemId": 218,
+    "freight": 1659,
+    "tariffPct": 16,
+    "misc": 52
+  },
+  {
+    "id": 219,
+    "orderItemId": 219,
+    "freight": 2344,
+    "tariffPct": 18,
+    "misc": 440
+  },
+  {
+    "id": 220,
+    "orderItemId": 220,
+    "freight": 873,
+    "tariffPct": 16,
+    "misc": 183
+  },
+  {
+    "id": 221,
+    "orderItemId": 221,
+    "freight": 1495,
+    "tariffPct": 5,
+    "misc": 182
+  },
+  {
+    "id": 222,
+    "orderItemId": 222,
+    "freight": 2731,
+    "tariffPct": 12,
+    "misc": 250
+  },
+  {
+    "id": 223,
+    "orderItemId": 223,
+    "freight": 934,
+    "tariffPct": 5,
+    "misc": 473
+  },
+  {
+    "id": 224,
+    "orderItemId": 224,
+    "freight": 1831,
+    "tariffPct": 3,
+    "misc": 210
+  },
+  {
+    "id": 225,
+    "orderItemId": 225,
+    "freight": 646,
+    "tariffPct": 15,
+    "misc": 62
+  },
+  {
+    "id": 226,
+    "orderItemId": 226,
+    "freight": 819,
+    "tariffPct": 3,
+    "misc": 71
+  },
+  {
+    "id": 227,
+    "orderItemId": 227,
+    "freight": 637,
+    "tariffPct": 17,
+    "misc": 272
+  },
+  {
+    "id": 228,
+    "orderItemId": 228,
+    "freight": 2196,
+    "tariffPct": 13,
+    "misc": 304
+  },
+  {
+    "id": 229,
+    "orderItemId": 229,
+    "freight": 267,
+    "tariffPct": 15,
+    "misc": 75
+  },
+  {
+    "id": 230,
+    "orderItemId": 230,
+    "freight": 2955,
+    "tariffPct": 0,
+    "misc": 397
+  },
+  {
+    "id": 231,
+    "orderItemId": 231,
+    "freight": 1290,
+    "tariffPct": 11,
+    "misc": 471
+  },
+  {
+    "id": 232,
+    "orderItemId": 232,
+    "freight": 1616,
+    "tariffPct": 13,
+    "misc": 359
+  },
+  {
+    "id": 233,
+    "orderItemId": 233,
+    "freight": 2020,
+    "tariffPct": 13,
+    "misc": 156
+  },
+  {
+    "id": 234,
+    "orderItemId": 234,
+    "freight": 2028,
+    "tariffPct": 12,
+    "misc": 174
+  },
+  {
+    "id": 235,
+    "orderItemId": 235,
+    "freight": 2642,
+    "tariffPct": 9,
+    "misc": 429
+  },
+  {
+    "id": 236,
+    "orderItemId": 236,
+    "freight": 815,
+    "tariffPct": 6,
+    "misc": 411
+  },
+  {
+    "id": 237,
+    "orderItemId": 237,
+    "freight": 992,
+    "tariffPct": 2,
+    "misc": 460
+  },
+  {
+    "id": 238,
+    "orderItemId": 238,
+    "freight": 1057,
+    "tariffPct": 16,
+    "misc": 157
+  },
+  {
+    "id": 239,
+    "orderItemId": 239,
+    "freight": 2868,
+    "tariffPct": 16,
+    "misc": 440
+  },
+  {
+    "id": 240,
+    "orderItemId": 240,
+    "freight": 727,
+    "tariffPct": 6,
+    "misc": 202
+  },
+  {
+    "id": 241,
+    "orderItemId": 241,
+    "freight": 1524,
+    "tariffPct": 10,
+    "misc": 496
+  },
+  {
+    "id": 242,
+    "orderItemId": 242,
+    "freight": 1856,
+    "tariffPct": 17,
+    "misc": 315
+  },
+  {
+    "id": 243,
+    "orderItemId": 243,
+    "freight": 1814,
+    "tariffPct": 5,
+    "misc": 167
+  },
+  {
+    "id": 244,
+    "orderItemId": 244,
+    "freight": 1028,
+    "tariffPct": 16,
+    "misc": 331
+  },
+  {
+    "id": 245,
+    "orderItemId": 245,
+    "freight": 2435,
+    "tariffPct": 1,
+    "misc": 359
+  },
+  {
+    "id": 246,
+    "orderItemId": 246,
+    "freight": 1530,
+    "tariffPct": 15,
+    "misc": 361
+  },
+  {
+    "id": 247,
+    "orderItemId": 247,
+    "freight": 433,
+    "tariffPct": 5,
+    "misc": 467
+  },
+  {
+    "id": 248,
+    "orderItemId": 248,
+    "freight": 1733,
+    "tariffPct": 7,
+    "misc": 337
+  },
+  {
+    "id": 249,
+    "orderItemId": 249,
+    "freight": 889,
+    "tariffPct": 15,
+    "misc": 310
+  },
+  {
+    "id": 250,
+    "orderItemId": 250,
+    "freight": 2673,
+    "tariffPct": 9,
+    "misc": 384
+  },
+  {
+    "id": 251,
+    "orderItemId": 251,
+    "freight": 2970,
+    "tariffPct": 10,
+    "misc": 109
+  },
+  {
+    "id": 252,
+    "orderItemId": 252,
+    "freight": 906,
+    "tariffPct": 14,
+    "misc": 157
+  },
+  {
+    "id": 253,
+    "orderItemId": 253,
+    "freight": 2023,
+    "tariffPct": 9,
+    "misc": 403
+  },
+  {
+    "id": 254,
+    "orderItemId": 254,
+    "freight": 207,
+    "tariffPct": 8,
+    "misc": 55
+  },
+  {
+    "id": 255,
+    "orderItemId": 255,
+    "freight": 2606,
+    "tariffPct": 14,
+    "misc": 380
+  },
+  {
+    "id": 256,
+    "orderItemId": 256,
+    "freight": 765,
+    "tariffPct": 8,
+    "misc": 359
+  },
+  {
+    "id": 257,
+    "orderItemId": 257,
+    "freight": 2928,
+    "tariffPct": 6,
+    "misc": 252
+  },
+  {
+    "id": 258,
+    "orderItemId": 258,
+    "freight": 2104,
+    "tariffPct": 10,
+    "misc": 260
+  },
+  {
+    "id": 259,
+    "orderItemId": 259,
+    "freight": 781,
+    "tariffPct": 11,
+    "misc": 256
+  },
+  {
+    "id": 260,
+    "orderItemId": 260,
+    "freight": 1728,
+    "tariffPct": 1,
+    "misc": 292
+  },
+  {
+    "id": 261,
+    "orderItemId": 261,
+    "freight": 2263,
+    "tariffPct": 17,
+    "misc": 320
+  },
+  {
+    "id": 262,
+    "orderItemId": 262,
+    "freight": 2809,
+    "tariffPct": 17,
+    "misc": 411
+  },
+  {
+    "id": 263,
+    "orderItemId": 263,
+    "freight": 668,
+    "tariffPct": 5,
+    "misc": 138
+  },
+  {
+    "id": 264,
+    "orderItemId": 264,
+    "freight": 2268,
+    "tariffPct": 6,
+    "misc": 150
+  },
+  {
+    "id": 265,
+    "orderItemId": 265,
+    "freight": 2189,
+    "tariffPct": 17,
+    "misc": 492
+  },
+  {
+    "id": 266,
+    "orderItemId": 266,
+    "freight": 876,
+    "tariffPct": 17,
+    "misc": 430
+  },
+  {
+    "id": 267,
+    "orderItemId": 267,
+    "freight": 2729,
+    "tariffPct": 12,
+    "misc": 388
+  },
+  {
+    "id": 268,
+    "orderItemId": 268,
+    "freight": 988,
+    "tariffPct": 5,
+    "misc": 161
+  },
+  {
+    "id": 269,
+    "orderItemId": 269,
+    "freight": 1178,
+    "tariffPct": 3,
+    "misc": 263
+  },
+  {
+    "id": 270,
+    "orderItemId": 270,
+    "freight": 727,
+    "tariffPct": 16,
+    "misc": 455
+  },
+  {
+    "id": 271,
+    "orderItemId": 271,
+    "freight": 953,
+    "tariffPct": 5,
+    "misc": 379
+  },
+  {
+    "id": 272,
+    "orderItemId": 272,
+    "freight": 2295,
+    "tariffPct": 3,
+    "misc": 139
+  },
+  {
+    "id": 273,
+    "orderItemId": 273,
+    "freight": 2191,
+    "tariffPct": 12,
+    "misc": 438
+  },
+  {
+    "id": 274,
+    "orderItemId": 274,
+    "freight": 1489,
+    "tariffPct": 5,
+    "misc": 483
+  },
+  {
+    "id": 275,
+    "orderItemId": 275,
+    "freight": 1833,
+    "tariffPct": 12,
+    "misc": 483
+  },
+  {
+    "id": 276,
+    "orderItemId": 276,
+    "freight": 1423,
+    "tariffPct": 5,
+    "misc": 496
+  },
+  {
+    "id": 277,
+    "orderItemId": 277,
+    "freight": 1233,
+    "tariffPct": 6,
+    "misc": 133
+  },
+  {
+    "id": 278,
+    "orderItemId": 278,
+    "freight": 1781,
+    "tariffPct": 18,
+    "misc": 405
+  },
+  {
+    "id": 279,
+    "orderItemId": 279,
+    "freight": 2251,
+    "tariffPct": 1,
+    "misc": 248
+  },
+  {
+    "id": 280,
+    "orderItemId": 280,
+    "freight": 893,
+    "tariffPct": 10,
+    "misc": 241
+  },
+  {
+    "id": 281,
+    "orderItemId": 281,
+    "freight": 1659,
+    "tariffPct": 6,
+    "misc": 172
+  },
+  {
+    "id": 282,
+    "orderItemId": 282,
+    "freight": 1083,
+    "tariffPct": 16,
+    "misc": 129
+  },
+  {
+    "id": 283,
+    "orderItemId": 283,
+    "freight": 907,
+    "tariffPct": 15,
+    "misc": 490
+  },
+  {
+    "id": 284,
+    "orderItemId": 284,
+    "freight": 1355,
+    "tariffPct": 17,
+    "misc": 434
+  },
+  {
+    "id": 285,
+    "orderItemId": 285,
+    "freight": 1066,
+    "tariffPct": 9,
+    "misc": 196
+  },
+  {
+    "id": 286,
+    "orderItemId": 286,
+    "freight": 1585,
+    "tariffPct": 11,
+    "misc": 76
+  },
+  {
+    "id": 287,
+    "orderItemId": 287,
+    "freight": 2276,
+    "tariffPct": 12,
+    "misc": 329
+  },
+  {
+    "id": 288,
+    "orderItemId": 288,
+    "freight": 1357,
+    "tariffPct": 13,
+    "misc": 131
+  },
+  {
+    "id": 289,
+    "orderItemId": 289,
+    "freight": 755,
+    "tariffPct": 10,
+    "misc": 86
+  },
+  {
+    "id": 290,
+    "orderItemId": 290,
+    "freight": 2748,
+    "tariffPct": 8,
+    "misc": 94
+  },
+  {
+    "id": 291,
+    "orderItemId": 291,
+    "freight": 1780,
+    "tariffPct": 7,
+    "misc": 103
+  },
+  {
+    "id": 292,
+    "orderItemId": 292,
+    "freight": 2837,
+    "tariffPct": 13,
+    "misc": 185
+  },
+  {
+    "id": 293,
+    "orderItemId": 293,
+    "freight": 1320,
+    "tariffPct": 10,
+    "misc": 243
+  },
+  {
+    "id": 294,
+    "orderItemId": 294,
+    "freight": 989,
+    "tariffPct": 17,
+    "misc": 121
+  },
+  {
+    "id": 295,
+    "orderItemId": 295,
+    "freight": 233,
+    "tariffPct": 13,
+    "misc": 292
+  },
+  {
+    "id": 296,
+    "orderItemId": 296,
+    "freight": 2947,
+    "tariffPct": 14,
+    "misc": 181
+  },
+  {
+    "id": 297,
+    "orderItemId": 297,
+    "freight": 1404,
+    "tariffPct": 9,
+    "misc": 140
+  },
+  {
+    "id": 298,
+    "orderItemId": 298,
+    "freight": 1076,
+    "tariffPct": 11,
+    "misc": 309
+  },
+  {
+    "id": 299,
+    "orderItemId": 299,
+    "freight": 920,
+    "tariffPct": 11,
+    "misc": 319
+  },
+  {
+    "id": 300,
+    "orderItemId": 300,
+    "freight": 788,
+    "tariffPct": 16,
+    "misc": 94
+  },
+  {
+    "id": 301,
+    "orderItemId": 301,
+    "freight": 1471,
+    "tariffPct": 8,
+    "misc": 209
+  },
+  {
+    "id": 302,
+    "orderItemId": 302,
+    "freight": 1968,
+    "tariffPct": 5,
+    "misc": 404
+  },
+  {
+    "id": 303,
+    "orderItemId": 303,
+    "freight": 2808,
+    "tariffPct": 18,
+    "misc": 305
+  },
+  {
+    "id": 304,
+    "orderItemId": 304,
+    "freight": 2000,
+    "tariffPct": 4,
+    "misc": 407
+  },
+  {
+    "id": 305,
+    "orderItemId": 305,
+    "freight": 1519,
+    "tariffPct": 10,
+    "misc": 306
+  },
+  {
+    "id": 306,
+    "orderItemId": 306,
+    "freight": 1256,
+    "tariffPct": 15,
+    "misc": 209
+  },
+  {
+    "id": 307,
+    "orderItemId": 307,
+    "freight": 1041,
+    "tariffPct": 15,
+    "misc": 60
+  },
+  {
+    "id": 308,
+    "orderItemId": 308,
+    "freight": 1742,
+    "tariffPct": 17,
+    "misc": 284
+  },
+  {
+    "id": 309,
+    "orderItemId": 309,
+    "freight": 2356,
+    "tariffPct": 4,
+    "misc": 117
+  },
+  {
+    "id": 310,
+    "orderItemId": 310,
+    "freight": 333,
+    "tariffPct": 6,
+    "misc": 61
+  },
+  {
+    "id": 311,
+    "orderItemId": 311,
+    "freight": 888,
+    "tariffPct": 18,
+    "misc": 165
+  },
+  {
+    "id": 312,
+    "orderItemId": 312,
+    "freight": 2242,
+    "tariffPct": 2,
+    "misc": 52
+  },
+  {
+    "id": 313,
+    "orderItemId": 313,
+    "freight": 2843,
+    "tariffPct": 4,
+    "misc": 106
+  },
+  {
+    "id": 314,
+    "orderItemId": 314,
+    "freight": 1222,
+    "tariffPct": 15,
+    "misc": 90
+  },
+  {
+    "id": 315,
+    "orderItemId": 315,
+    "freight": 961,
+    "tariffPct": 17,
+    "misc": 103
+  },
+  {
+    "id": 316,
+    "orderItemId": 316,
+    "freight": 1564,
+    "tariffPct": 0,
+    "misc": 175
+  },
+  {
+    "id": 317,
+    "orderItemId": 317,
+    "freight": 2605,
+    "tariffPct": 6,
+    "misc": 356
+  },
+  {
+    "id": 318,
+    "orderItemId": 318,
+    "freight": 2497,
+    "tariffPct": 10,
+    "misc": 477
+  },
+  {
+    "id": 319,
+    "orderItemId": 319,
+    "freight": 471,
+    "tariffPct": 14,
+    "misc": 178
+  },
+  {
+    "id": 320,
+    "orderItemId": 320,
+    "freight": 203,
+    "tariffPct": 2,
+    "misc": 207
+  },
+  {
+    "id": 321,
+    "orderItemId": 321,
+    "freight": 260,
+    "tariffPct": 17,
+    "misc": 416
+  },
+  {
+    "id": 322,
+    "orderItemId": 322,
+    "freight": 2326,
+    "tariffPct": 12,
+    "misc": 464
+  },
+  {
+    "id": 323,
+    "orderItemId": 323,
+    "freight": 277,
+    "tariffPct": 18,
+    "misc": 312
+  },
+  {
+    "id": 324,
+    "orderItemId": 324,
+    "freight": 2263,
+    "tariffPct": 7,
+    "misc": 209
+  },
+  {
+    "id": 325,
+    "orderItemId": 325,
+    "freight": 1921,
+    "tariffPct": 17,
+    "misc": 376
+  },
+  {
+    "id": 326,
+    "orderItemId": 326,
+    "freight": 1510,
+    "tariffPct": 2,
+    "misc": 230
+  },
+  {
+    "id": 327,
+    "orderItemId": 327,
+    "freight": 826,
+    "tariffPct": 5,
+    "misc": 166
+  },
+  {
+    "id": 328,
+    "orderItemId": 328,
+    "freight": 940,
+    "tariffPct": 1,
+    "misc": 205
+  },
+  {
+    "id": 329,
+    "orderItemId": 329,
+    "freight": 2263,
+    "tariffPct": 1,
+    "misc": 349
+  },
+  {
+    "id": 330,
+    "orderItemId": 330,
+    "freight": 921,
+    "tariffPct": 16,
+    "misc": 164
+  },
+  {
+    "id": 331,
+    "orderItemId": 331,
+    "freight": 1201,
+    "tariffPct": 7,
+    "misc": 187
+  },
+  {
+    "id": 332,
+    "orderItemId": 332,
+    "freight": 725,
+    "tariffPct": 3,
+    "misc": 484
+  },
+  {
+    "id": 333,
+    "orderItemId": 333,
+    "freight": 744,
+    "tariffPct": 3,
+    "misc": 337
+  },
+  {
+    "id": 334,
+    "orderItemId": 334,
+    "freight": 2473,
+    "tariffPct": 8,
+    "misc": 234
+  },
+  {
+    "id": 335,
+    "orderItemId": 335,
+    "freight": 1182,
+    "tariffPct": 12,
+    "misc": 128
+  },
+  {
+    "id": 336,
+    "orderItemId": 336,
+    "freight": 2903,
+    "tariffPct": 11,
+    "misc": 173
+  },
+  {
+    "id": 337,
+    "orderItemId": 337,
+    "freight": 1756,
+    "tariffPct": 13,
+    "misc": 321
+  },
+  {
+    "id": 338,
+    "orderItemId": 338,
+    "freight": 1047,
+    "tariffPct": 17,
+    "misc": 225
+  },
+  {
+    "id": 339,
+    "orderItemId": 339,
+    "freight": 1163,
+    "tariffPct": 11,
+    "misc": 228
+  },
+  {
+    "id": 340,
+    "orderItemId": 340,
+    "freight": 1184,
+    "tariffPct": 12,
+    "misc": 183
+  },
+  {
+    "id": 341,
+    "orderItemId": 341,
+    "freight": 420,
+    "tariffPct": 5,
+    "misc": 194
+  },
+  {
+    "id": 342,
+    "orderItemId": 342,
+    "freight": 1403,
+    "tariffPct": 10,
+    "misc": 120
+  },
+  {
+    "id": 343,
+    "orderItemId": 343,
+    "freight": 1600,
+    "tariffPct": 0,
+    "misc": 134
+  },
+  {
+    "id": 344,
+    "orderItemId": 344,
+    "freight": 884,
+    "tariffPct": 7,
+    "misc": 116
+  },
+  {
+    "id": 345,
+    "orderItemId": 345,
+    "freight": 563,
+    "tariffPct": 18,
+    "misc": 52
+  },
+  {
+    "id": 346,
+    "orderItemId": 346,
+    "freight": 200,
+    "tariffPct": 9,
+    "misc": 354
+  },
+  {
+    "id": 347,
+    "orderItemId": 347,
+    "freight": 666,
+    "tariffPct": 4,
+    "misc": 258
+  },
+  {
+    "id": 348,
+    "orderItemId": 348,
+    "freight": 674,
+    "tariffPct": 0,
+    "misc": 157
+  },
+  {
+    "id": 349,
+    "orderItemId": 349,
+    "freight": 1231,
+    "tariffPct": 6,
+    "misc": 81
+  },
+  {
+    "id": 350,
+    "orderItemId": 350,
+    "freight": 965,
+    "tariffPct": 10,
+    "misc": 79
+  },
+  {
+    "id": 351,
+    "orderItemId": 351,
+    "freight": 2266,
+    "tariffPct": 15,
+    "misc": 494
+  },
+  {
+    "id": 352,
+    "orderItemId": 352,
+    "freight": 2482,
+    "tariffPct": 5,
+    "misc": 167
+  },
+  {
+    "id": 353,
+    "orderItemId": 353,
+    "freight": 2327,
+    "tariffPct": 18,
+    "misc": 63
+  },
+  {
+    "id": 354,
+    "orderItemId": 354,
+    "freight": 553,
+    "tariffPct": 3,
+    "misc": 258
+  },
+  {
+    "id": 355,
+    "orderItemId": 355,
+    "freight": 824,
+    "tariffPct": 11,
+    "misc": 388
+  },
+  {
+    "id": 356,
+    "orderItemId": 356,
+    "freight": 775,
+    "tariffPct": 2,
+    "misc": 219
+  },
+  {
+    "id": 357,
+    "orderItemId": 357,
+    "freight": 791,
+    "tariffPct": 8,
+    "misc": 450
+  },
+  {
+    "id": 358,
+    "orderItemId": 358,
+    "freight": 2515,
+    "tariffPct": 18,
+    "misc": 401
+  },
+  {
+    "id": 359,
+    "orderItemId": 359,
+    "freight": 2741,
+    "tariffPct": 0,
+    "misc": 484
+  },
+  {
+    "id": 360,
+    "orderItemId": 360,
+    "freight": 793,
+    "tariffPct": 16,
+    "misc": 368
+  },
+  {
+    "id": 361,
+    "orderItemId": 361,
+    "freight": 1410,
+    "tariffPct": 17,
+    "misc": 80
+  },
+  {
+    "id": 362,
+    "orderItemId": 362,
+    "freight": 1491,
+    "tariffPct": 13,
+    "misc": 166
+  },
+  {
+    "id": 363,
+    "orderItemId": 363,
+    "freight": 2488,
+    "tariffPct": 2,
+    "misc": 454
+  },
+  {
+    "id": 364,
+    "orderItemId": 364,
+    "freight": 2045,
+    "tariffPct": 12,
+    "misc": 68
+  },
+  {
+    "id": 365,
+    "orderItemId": 365,
+    "freight": 1243,
+    "tariffPct": 3,
+    "misc": 467
+  },
+  {
+    "id": 366,
+    "orderItemId": 366,
+    "freight": 1943,
+    "tariffPct": 4,
+    "misc": 394
+  },
+  {
+    "id": 367,
+    "orderItemId": 367,
+    "freight": 507,
+    "tariffPct": 4,
+    "misc": 255
+  },
+  {
+    "id": 368,
+    "orderItemId": 368,
+    "freight": 431,
+    "tariffPct": 7,
+    "misc": 206
+  },
+  {
+    "id": 369,
+    "orderItemId": 369,
+    "freight": 563,
+    "tariffPct": 18,
+    "misc": 128
+  },
+  {
+    "id": 370,
+    "orderItemId": 370,
+    "freight": 1407,
+    "tariffPct": 17,
+    "misc": 403
+  },
+  {
+    "id": 371,
+    "orderItemId": 371,
+    "freight": 1632,
+    "tariffPct": 13,
+    "misc": 305
+  },
+  {
+    "id": 372,
+    "orderItemId": 372,
+    "freight": 2494,
+    "tariffPct": 1,
+    "misc": 109
+  },
+  {
+    "id": 373,
+    "orderItemId": 373,
+    "freight": 2847,
+    "tariffPct": 16,
+    "misc": 477
+  },
+  {
+    "id": 374,
+    "orderItemId": 374,
+    "freight": 2448,
+    "tariffPct": 0,
+    "misc": 306
+  },
+  {
+    "id": 375,
+    "orderItemId": 375,
+    "freight": 2242,
+    "tariffPct": 14,
+    "misc": 288
+  },
+  {
+    "id": 376,
+    "orderItemId": 376,
+    "freight": 617,
+    "tariffPct": 15,
+    "misc": 292
+  },
+  {
+    "id": 377,
+    "orderItemId": 377,
+    "freight": 1074,
+    "tariffPct": 2,
+    "misc": 422
+  },
+  {
+    "id": 378,
+    "orderItemId": 378,
+    "freight": 2797,
+    "tariffPct": 6,
+    "misc": 99
+  },
+  {
+    "id": 379,
+    "orderItemId": 379,
+    "freight": 662,
+    "tariffPct": 11,
+    "misc": 433
+  },
+  {
+    "id": 380,
+    "orderItemId": 380,
+    "freight": 1483,
+    "tariffPct": 17,
+    "misc": 90
+  },
+  {
+    "id": 381,
+    "orderItemId": 381,
+    "freight": 1203,
+    "tariffPct": 3,
+    "misc": 344
+  },
+  {
+    "id": 382,
+    "orderItemId": 382,
+    "freight": 2674,
+    "tariffPct": 10,
+    "misc": 126
+  },
+  {
+    "id": 383,
+    "orderItemId": 383,
+    "freight": 352,
+    "tariffPct": 12,
+    "misc": 404
+  },
+  {
+    "id": 384,
+    "orderItemId": 384,
+    "freight": 958,
+    "tariffPct": 17,
+    "misc": 92
+  },
+  {
+    "id": 385,
+    "orderItemId": 385,
+    "freight": 2799,
+    "tariffPct": 13,
+    "misc": 269
+  },
+  {
+    "id": 386,
+    "orderItemId": 386,
+    "freight": 1729,
+    "tariffPct": 15,
+    "misc": 286
+  },
+  {
+    "id": 387,
+    "orderItemId": 387,
+    "freight": 928,
+    "tariffPct": 6,
+    "misc": 241
+  },
+  {
+    "id": 388,
+    "orderItemId": 388,
+    "freight": 1261,
+    "tariffPct": 5,
+    "misc": 114
+  },
+  {
+    "id": 389,
+    "orderItemId": 389,
+    "freight": 265,
+    "tariffPct": 9,
+    "misc": 493
+  },
+  {
+    "id": 390,
+    "orderItemId": 390,
+    "freight": 2409,
+    "tariffPct": 14,
+    "misc": 462
+  },
+  {
+    "id": 391,
+    "orderItemId": 391,
+    "freight": 2097,
+    "tariffPct": 5,
+    "misc": 79
+  },
+  {
+    "id": 392,
+    "orderItemId": 392,
+    "freight": 2108,
+    "tariffPct": 2,
+    "misc": 379
+  },
+  {
+    "id": 393,
+    "orderItemId": 393,
+    "freight": 2445,
+    "tariffPct": 15,
+    "misc": 69
+  },
+  {
+    "id": 394,
+    "orderItemId": 394,
+    "freight": 2845,
+    "tariffPct": 2,
+    "misc": 212
+  },
+  {
+    "id": 395,
+    "orderItemId": 395,
+    "freight": 949,
+    "tariffPct": 8,
+    "misc": 179
+  },
+  {
+    "id": 396,
+    "orderItemId": 396,
+    "freight": 1102,
+    "tariffPct": 8,
+    "misc": 302
+  },
+  {
+    "id": 397,
+    "orderItemId": 397,
+    "freight": 678,
+    "tariffPct": 9,
+    "misc": 127
+  },
+  {
+    "id": 398,
+    "orderItemId": 398,
+    "freight": 523,
+    "tariffPct": 10,
+    "misc": 215
+  },
+  {
+    "id": 399,
+    "orderItemId": 399,
+    "freight": 1599,
+    "tariffPct": 9,
+    "misc": 56
+  },
+  {
+    "id": 400,
+    "orderItemId": 400,
+    "freight": 638,
+    "tariffPct": 1,
+    "misc": 359
+  },
+  {
+    "id": 401,
+    "orderItemId": 401,
+    "freight": 674,
+    "tariffPct": 0,
+    "misc": 420
+  },
+  {
+    "id": 402,
+    "orderItemId": 402,
+    "freight": 1652,
+    "tariffPct": 9,
+    "misc": 439
+  },
+  {
+    "id": 403,
+    "orderItemId": 403,
+    "freight": 2095,
+    "tariffPct": 14,
+    "misc": 391
+  },
+  {
+    "id": 404,
+    "orderItemId": 404,
+    "freight": 2631,
+    "tariffPct": 1,
+    "misc": 157
+  },
+  {
+    "id": 405,
+    "orderItemId": 405,
+    "freight": 300,
+    "tariffPct": 5,
+    "misc": 224
+  },
+  {
+    "id": 406,
+    "orderItemId": 406,
+    "freight": 1898,
+    "tariffPct": 16,
+    "misc": 273
+  },
+  {
+    "id": 407,
+    "orderItemId": 407,
+    "freight": 2223,
+    "tariffPct": 7,
+    "misc": 204
+  },
+  {
+    "id": 408,
+    "orderItemId": 408,
+    "freight": 860,
+    "tariffPct": 14,
+    "misc": 198
+  },
+  {
+    "id": 409,
+    "orderItemId": 409,
+    "freight": 1801,
+    "tariffPct": 15,
+    "misc": 452
+  },
+  {
+    "id": 410,
+    "orderItemId": 410,
+    "freight": 1685,
+    "tariffPct": 3,
+    "misc": 410
+  },
+  {
+    "id": 411,
+    "orderItemId": 411,
+    "freight": 620,
+    "tariffPct": 8,
+    "misc": 158
+  },
+  {
+    "id": 412,
+    "orderItemId": 412,
+    "freight": 491,
+    "tariffPct": 4,
+    "misc": 251
+  },
+  {
+    "id": 413,
+    "orderItemId": 413,
+    "freight": 816,
+    "tariffPct": 3,
+    "misc": 278
+  },
+  {
+    "id": 414,
+    "orderItemId": 414,
+    "freight": 2145,
+    "tariffPct": 7,
+    "misc": 492
+  },
+  {
+    "id": 415,
+    "orderItemId": 415,
+    "freight": 1696,
+    "tariffPct": 16,
+    "misc": 208
+  },
+  {
+    "id": 416,
+    "orderItemId": 416,
+    "freight": 1539,
+    "tariffPct": 0,
+    "misc": 361
+  },
+  {
+    "id": 417,
+    "orderItemId": 417,
+    "freight": 837,
+    "tariffPct": 17,
+    "misc": 340
+  },
+  {
+    "id": 418,
+    "orderItemId": 418,
+    "freight": 2006,
+    "tariffPct": 2,
+    "misc": 256
+  },
+  {
+    "id": 419,
+    "orderItemId": 419,
+    "freight": 1406,
+    "tariffPct": 0,
+    "misc": 110
+  },
+  {
+    "id": 420,
+    "orderItemId": 420,
+    "freight": 655,
+    "tariffPct": 2,
+    "misc": 393
+  },
+  {
+    "id": 421,
+    "orderItemId": 421,
+    "freight": 1094,
+    "tariffPct": 10,
+    "misc": 209
+  },
+  {
+    "id": 422,
+    "orderItemId": 422,
+    "freight": 1022,
+    "tariffPct": 1,
+    "misc": 78
+  },
+  {
+    "id": 423,
+    "orderItemId": 423,
+    "freight": 821,
+    "tariffPct": 11,
+    "misc": 381
+  },
+  {
+    "id": 424,
+    "orderItemId": 424,
+    "freight": 1013,
+    "tariffPct": 5,
+    "misc": 79
+  },
+  {
+    "id": 425,
+    "orderItemId": 425,
+    "freight": 1977,
+    "tariffPct": 0,
+    "misc": 450
+  },
+  {
+    "id": 426,
+    "orderItemId": 426,
+    "freight": 2186,
+    "tariffPct": 12,
+    "misc": 397
+  },
+  {
+    "id": 427,
+    "orderItemId": 427,
+    "freight": 1769,
+    "tariffPct": 0,
+    "misc": 286
+  },
+  {
+    "id": 428,
+    "orderItemId": 428,
+    "freight": 2238,
+    "tariffPct": 8,
+    "misc": 195
+  },
+  {
+    "id": 429,
+    "orderItemId": 429,
+    "freight": 2344,
+    "tariffPct": 12,
+    "misc": 357
+  },
+  {
+    "id": 430,
+    "orderItemId": 430,
+    "freight": 908,
+    "tariffPct": 11,
+    "misc": 416
+  },
+  {
+    "id": 431,
+    "orderItemId": 431,
+    "freight": 1095,
+    "tariffPct": 3,
+    "misc": 421
+  },
+  {
+    "id": 432,
+    "orderItemId": 432,
+    "freight": 2958,
+    "tariffPct": 0,
+    "misc": 263
+  },
+  {
+    "id": 433,
+    "orderItemId": 433,
+    "freight": 809,
+    "tariffPct": 8,
+    "misc": 204
+  },
+  {
+    "id": 434,
+    "orderItemId": 434,
+    "freight": 425,
+    "tariffPct": 6,
+    "misc": 458
+  },
+  {
+    "id": 435,
+    "orderItemId": 435,
+    "freight": 584,
+    "tariffPct": 8,
+    "misc": 172
+  },
+  {
+    "id": 436,
+    "orderItemId": 436,
+    "freight": 418,
+    "tariffPct": 4,
+    "misc": 114
+  },
+  {
+    "id": 437,
+    "orderItemId": 437,
+    "freight": 2158,
+    "tariffPct": 10,
+    "misc": 287
+  },
+  {
+    "id": 438,
+    "orderItemId": 438,
+    "freight": 1551,
+    "tariffPct": 5,
+    "misc": 304
+  },
+  {
+    "id": 439,
+    "orderItemId": 439,
+    "freight": 1751,
+    "tariffPct": 9,
+    "misc": 292
+  },
+  {
+    "id": 440,
+    "orderItemId": 440,
+    "freight": 2700,
+    "tariffPct": 12,
+    "misc": 230
+  },
+  {
+    "id": 441,
+    "orderItemId": 441,
+    "freight": 1341,
+    "tariffPct": 0,
+    "misc": 409
+  },
+  {
+    "id": 442,
+    "orderItemId": 442,
+    "freight": 1689,
+    "tariffPct": 12,
+    "misc": 259
+  },
+  {
+    "id": 443,
+    "orderItemId": 443,
+    "freight": 1700,
+    "tariffPct": 9,
+    "misc": 175
+  },
+  {
+    "id": 444,
+    "orderItemId": 444,
+    "freight": 1874,
+    "tariffPct": 6,
+    "misc": 296
+  },
+  {
+    "id": 445,
+    "orderItemId": 445,
+    "freight": 2614,
+    "tariffPct": 8,
+    "misc": 325
+  },
+  {
+    "id": 446,
+    "orderItemId": 446,
+    "freight": 264,
+    "tariffPct": 1,
+    "misc": 244
+  },
+  {
+    "id": 447,
+    "orderItemId": 447,
+    "freight": 1875,
+    "tariffPct": 1,
+    "misc": 296
+  },
+  {
+    "id": 448,
+    "orderItemId": 448,
+    "freight": 2529,
+    "tariffPct": 6,
+    "misc": 145
+  },
+  {
+    "id": 449,
+    "orderItemId": 449,
+    "freight": 1331,
+    "tariffPct": 4,
+    "misc": 421
+  },
+  {
+    "id": 450,
+    "orderItemId": 450,
+    "freight": 2083,
+    "tariffPct": 3,
+    "misc": 417
+  },
+  {
+    "id": 451,
+    "orderItemId": 451,
+    "freight": 2072,
+    "tariffPct": 9,
+    "misc": 493
+  },
+  {
+    "id": 452,
+    "orderItemId": 452,
+    "freight": 544,
+    "tariffPct": 13,
+    "misc": 442
+  },
+  {
+    "id": 453,
+    "orderItemId": 453,
+    "freight": 2148,
+    "tariffPct": 15,
+    "misc": 364
+  },
+  {
+    "id": 454,
+    "orderItemId": 454,
+    "freight": 2024,
+    "tariffPct": 12,
+    "misc": 491
+  },
+  {
+    "id": 455,
+    "orderItemId": 455,
+    "freight": 2804,
+    "tariffPct": 18,
+    "misc": 329
+  },
+  {
+    "id": 456,
+    "orderItemId": 456,
+    "freight": 516,
+    "tariffPct": 1,
+    "misc": 333
+  },
+  {
+    "id": 457,
+    "orderItemId": 457,
+    "freight": 2622,
+    "tariffPct": 1,
+    "misc": 321
+  },
+  {
+    "id": 458,
+    "orderItemId": 458,
+    "freight": 1637,
+    "tariffPct": 1,
+    "misc": 202
+  },
+  {
+    "id": 459,
+    "orderItemId": 459,
+    "freight": 793,
+    "tariffPct": 0,
+    "misc": 456
+  },
+  {
+    "id": 460,
+    "orderItemId": 460,
+    "freight": 1637,
+    "tariffPct": 2,
+    "misc": 449
+  },
+  {
+    "id": 461,
+    "orderItemId": 461,
+    "freight": 627,
+    "tariffPct": 0,
+    "misc": 352
+  },
+  {
+    "id": 462,
+    "orderItemId": 462,
+    "freight": 1519,
+    "tariffPct": 8,
+    "misc": 150
+  },
+  {
+    "id": 463,
+    "orderItemId": 463,
+    "freight": 1891,
+    "tariffPct": 15,
+    "misc": 105
+  },
+  {
+    "id": 464,
+    "orderItemId": 464,
+    "freight": 231,
+    "tariffPct": 18,
+    "misc": 298
+  },
+  {
+    "id": 465,
+    "orderItemId": 465,
+    "freight": 1453,
+    "tariffPct": 16,
+    "misc": 288
+  },
+  {
+    "id": 466,
+    "orderItemId": 466,
+    "freight": 2842,
+    "tariffPct": 2,
+    "misc": 439
+  },
+  {
+    "id": 467,
+    "orderItemId": 467,
+    "freight": 1937,
+    "tariffPct": 11,
+    "misc": 130
+  },
+  {
+    "id": 468,
+    "orderItemId": 468,
+    "freight": 863,
+    "tariffPct": 2,
+    "misc": 372
+  },
+  {
+    "id": 469,
+    "orderItemId": 469,
+    "freight": 695,
+    "tariffPct": 15,
+    "misc": 97
+  },
+  {
+    "id": 470,
+    "orderItemId": 470,
+    "freight": 2335,
+    "tariffPct": 10,
+    "misc": 159
+  },
+  {
+    "id": 471,
+    "orderItemId": 471,
+    "freight": 1400,
+    "tariffPct": 12,
+    "misc": 325
+  },
+  {
+    "id": 472,
+    "orderItemId": 472,
+    "freight": 2295,
+    "tariffPct": 15,
+    "misc": 492
+  },
+  {
+    "id": 473,
+    "orderItemId": 473,
+    "freight": 1813,
+    "tariffPct": 18,
+    "misc": 120
+  },
+  {
+    "id": 474,
+    "orderItemId": 474,
+    "freight": 896,
+    "tariffPct": 1,
+    "misc": 55
+  },
+  {
+    "id": 475,
+    "orderItemId": 475,
+    "freight": 2162,
+    "tariffPct": 4,
+    "misc": 82
+  },
+  {
+    "id": 476,
+    "orderItemId": 476,
+    "freight": 2594,
+    "tariffPct": 18,
+    "misc": 57
+  },
+  {
+    "id": 477,
+    "orderItemId": 477,
+    "freight": 528,
+    "tariffPct": 1,
+    "misc": 214
+  },
+  {
+    "id": 478,
+    "orderItemId": 478,
+    "freight": 1494,
+    "tariffPct": 14,
+    "misc": 134
+  },
+  {
+    "id": 479,
+    "orderItemId": 479,
+    "freight": 1571,
+    "tariffPct": 1,
+    "misc": 199
+  },
+  {
+    "id": 480,
+    "orderItemId": 480,
+    "freight": 696,
+    "tariffPct": 5,
+    "misc": 124
+  },
+  {
+    "id": 481,
+    "orderItemId": 481,
+    "freight": 1219,
+    "tariffPct": 10,
+    "misc": 159
+  },
+  {
+    "id": 482,
+    "orderItemId": 482,
+    "freight": 881,
+    "tariffPct": 1,
+    "misc": 277
+  },
+  {
+    "id": 483,
+    "orderItemId": 483,
+    "freight": 992,
+    "tariffPct": 13,
+    "misc": 91
+  },
+  {
+    "id": 484,
+    "orderItemId": 484,
+    "freight": 1457,
+    "tariffPct": 2,
+    "misc": 339
+  },
+  {
+    "id": 485,
+    "orderItemId": 485,
+    "freight": 2203,
+    "tariffPct": 9,
+    "misc": 483
+  },
+  {
+    "id": 486,
+    "orderItemId": 486,
+    "freight": 483,
+    "tariffPct": 17,
+    "misc": 193
+  },
+  {
+    "id": 487,
+    "orderItemId": 487,
+    "freight": 863,
+    "tariffPct": 16,
+    "misc": 142
+  },
+  {
+    "id": 488,
+    "orderItemId": 488,
+    "freight": 1886,
+    "tariffPct": 2,
+    "misc": 71
+  },
+  {
+    "id": 489,
+    "orderItemId": 489,
+    "freight": 901,
+    "tariffPct": 17,
+    "misc": 433
+  },
+  {
+    "id": 490,
+    "orderItemId": 490,
+    "freight": 1140,
+    "tariffPct": 8,
+    "misc": 265
+  },
+  {
+    "id": 491,
+    "orderItemId": 491,
+    "freight": 2289,
+    "tariffPct": 4,
+    "misc": 460
+  },
+  {
+    "id": 492,
+    "orderItemId": 492,
+    "freight": 1589,
+    "tariffPct": 7,
+    "misc": 410
+  },
+  {
+    "id": 493,
+    "orderItemId": 493,
+    "freight": 2853,
+    "tariffPct": 8,
+    "misc": 234
+  },
+  {
+    "id": 494,
+    "orderItemId": 494,
+    "freight": 837,
+    "tariffPct": 11,
+    "misc": 252
+  },
+  {
+    "id": 495,
+    "orderItemId": 495,
+    "freight": 1137,
+    "tariffPct": 11,
+    "misc": 97
+  },
+  {
+    "id": 496,
+    "orderItemId": 496,
+    "freight": 1535,
+    "tariffPct": 14,
+    "misc": 434
+  },
+  {
+    "id": 497,
+    "orderItemId": 497,
+    "freight": 2388,
+    "tariffPct": 8,
+    "misc": 458
+  },
+  {
+    "id": 498,
+    "orderItemId": 498,
+    "freight": 1405,
+    "tariffPct": 5,
+    "misc": 478
+  },
+  {
+    "id": 499,
+    "orderItemId": 499,
+    "freight": 2230,
+    "tariffPct": 5,
+    "misc": 375
+  },
+  {
+    "id": 500,
+    "orderItemId": 500,
+    "freight": 374,
+    "tariffPct": 12,
+    "misc": 394
+  },
+  {
+    "id": 501,
+    "orderItemId": 501,
+    "freight": 1155,
+    "tariffPct": 1,
+    "misc": 293
+  },
+  {
+    "id": 502,
+    "orderItemId": 502,
+    "freight": 2698,
+    "tariffPct": 2,
+    "misc": 260
+  },
+  {
+    "id": 503,
+    "orderItemId": 503,
+    "freight": 213,
+    "tariffPct": 0,
+    "misc": 104
+  },
+  {
+    "id": 504,
+    "orderItemId": 504,
+    "freight": 2361,
+    "tariffPct": 8,
+    "misc": 157
+  },
+  {
+    "id": 505,
+    "orderItemId": 505,
+    "freight": 2761,
+    "tariffPct": 10,
+    "misc": 235
+  },
+  {
+    "id": 506,
+    "orderItemId": 506,
+    "freight": 683,
+    "tariffPct": 13,
+    "misc": 107
+  },
+  {
+    "id": 507,
+    "orderItemId": 507,
+    "freight": 1161,
+    "tariffPct": 8,
+    "misc": 128
+  },
+  {
+    "id": 508,
+    "orderItemId": 508,
+    "freight": 1954,
+    "tariffPct": 1,
+    "misc": 126
+  },
+  {
+    "id": 509,
+    "orderItemId": 509,
+    "freight": 763,
+    "tariffPct": 10,
+    "misc": 388
+  },
+  {
+    "id": 510,
+    "orderItemId": 510,
+    "freight": 1935,
+    "tariffPct": 6,
+    "misc": 453
+  },
+  {
+    "id": 511,
+    "orderItemId": 511,
+    "freight": 2013,
+    "tariffPct": 2,
+    "misc": 456
+  },
+  {
+    "id": 512,
+    "orderItemId": 512,
+    "freight": 804,
+    "tariffPct": 8,
+    "misc": 289
+  },
+  {
+    "id": 513,
+    "orderItemId": 513,
+    "freight": 1243,
+    "tariffPct": 5,
+    "misc": 392
+  },
+  {
+    "id": 514,
+    "orderItemId": 514,
+    "freight": 2752,
+    "tariffPct": 4,
+    "misc": 234
+  },
+  {
+    "id": 515,
+    "orderItemId": 515,
+    "freight": 728,
+    "tariffPct": 11,
+    "misc": 137
+  },
+  {
+    "id": 516,
+    "orderItemId": 516,
+    "freight": 2972,
+    "tariffPct": 11,
+    "misc": 468
+  },
+  {
+    "id": 517,
+    "orderItemId": 517,
+    "freight": 983,
+    "tariffPct": 10,
+    "misc": 398
+  },
+  {
+    "id": 518,
+    "orderItemId": 518,
+    "freight": 2706,
+    "tariffPct": 12,
+    "misc": 282
+  },
+  {
+    "id": 519,
+    "orderItemId": 519,
+    "freight": 1642,
+    "tariffPct": 12,
+    "misc": 458
+  },
+  {
+    "id": 520,
+    "orderItemId": 520,
+    "freight": 1825,
+    "tariffPct": 13,
+    "misc": 453
+  },
+  {
+    "id": 521,
+    "orderItemId": 521,
+    "freight": 2043,
+    "tariffPct": 1,
+    "misc": 256
+  },
+  {
+    "id": 522,
+    "orderItemId": 522,
+    "freight": 1857,
+    "tariffPct": 12,
+    "misc": 365
+  },
+  {
+    "id": 523,
+    "orderItemId": 523,
+    "freight": 938,
+    "tariffPct": 18,
+    "misc": 429
+  },
+  {
+    "id": 524,
+    "orderItemId": 524,
+    "freight": 2145,
+    "tariffPct": 4,
+    "misc": 105
+  },
+  {
+    "id": 525,
+    "orderItemId": 525,
+    "freight": 1545,
+    "tariffPct": 2,
+    "misc": 356
+  },
+  {
+    "id": 526,
+    "orderItemId": 526,
+    "freight": 2135,
+    "tariffPct": 13,
+    "misc": 93
+  },
+  {
+    "id": 527,
+    "orderItemId": 527,
+    "freight": 686,
+    "tariffPct": 12,
+    "misc": 343
+  },
+  {
+    "id": 528,
+    "orderItemId": 528,
+    "freight": 1143,
+    "tariffPct": 4,
+    "misc": 236
+  },
+  {
+    "id": 529,
+    "orderItemId": 529,
+    "freight": 1569,
+    "tariffPct": 10,
+    "misc": 170
+  },
+  {
+    "id": 530,
+    "orderItemId": 530,
+    "freight": 282,
+    "tariffPct": 11,
+    "misc": 161
+  },
+  {
+    "id": 531,
+    "orderItemId": 531,
+    "freight": 1470,
+    "tariffPct": 3,
+    "misc": 121
+  },
+  {
+    "id": 532,
+    "orderItemId": 532,
+    "freight": 2954,
+    "tariffPct": 5,
+    "misc": 497
+  },
+  {
+    "id": 533,
+    "orderItemId": 533,
+    "freight": 303,
+    "tariffPct": 0,
+    "misc": 301
+  },
+  {
+    "id": 534,
+    "orderItemId": 534,
+    "freight": 230,
+    "tariffPct": 13,
+    "misc": 447
+  },
+  {
+    "id": 535,
+    "orderItemId": 535,
+    "freight": 2108,
+    "tariffPct": 9,
+    "misc": 325
+  },
+  {
+    "id": 536,
+    "orderItemId": 536,
+    "freight": 1306,
+    "tariffPct": 9,
+    "misc": 157
+  },
+  {
+    "id": 537,
+    "orderItemId": 537,
+    "freight": 1375,
+    "tariffPct": 5,
+    "misc": 243
+  },
+  {
+    "id": 538,
+    "orderItemId": 538,
+    "freight": 824,
+    "tariffPct": 12,
+    "misc": 85
+  },
+  {
+    "id": 539,
+    "orderItemId": 539,
+    "freight": 1711,
+    "tariffPct": 14,
+    "misc": 60
+  },
+  {
+    "id": 540,
+    "orderItemId": 540,
+    "freight": 1184,
+    "tariffPct": 7,
+    "misc": 398
+  },
+  {
+    "id": 541,
+    "orderItemId": 541,
+    "freight": 510,
+    "tariffPct": 12,
+    "misc": 173
+  },
+  {
+    "id": 542,
+    "orderItemId": 542,
+    "freight": 1093,
+    "tariffPct": 10,
+    "misc": 273
+  },
+  {
+    "id": 543,
+    "orderItemId": 543,
+    "freight": 2185,
+    "tariffPct": 15,
+    "misc": 333
+  },
+  {
+    "id": 544,
+    "orderItemId": 544,
+    "freight": 2967,
+    "tariffPct": 6,
+    "misc": 51
+  },
+  {
+    "id": 545,
+    "orderItemId": 545,
+    "freight": 2275,
+    "tariffPct": 15,
+    "misc": 146
+  },
+  {
+    "id": 546,
+    "orderItemId": 546,
+    "freight": 1286,
+    "tariffPct": 2,
+    "misc": 405
+  },
+  {
+    "id": 547,
+    "orderItemId": 547,
+    "freight": 2267,
+    "tariffPct": 11,
+    "misc": 140
+  },
+  {
+    "id": 548,
+    "orderItemId": 548,
+    "freight": 2813,
+    "tariffPct": 14,
+    "misc": 220
+  },
+  {
+    "id": 549,
+    "orderItemId": 549,
+    "freight": 2706,
+    "tariffPct": 3,
+    "misc": 85
+  },
+  {
+    "id": 550,
+    "orderItemId": 550,
+    "freight": 1690,
+    "tariffPct": 11,
+    "misc": 301
+  },
+  {
+    "id": 551,
+    "orderItemId": 551,
+    "freight": 2666,
+    "tariffPct": 3,
+    "misc": 262
+  },
+  {
+    "id": 552,
+    "orderItemId": 552,
+    "freight": 268,
+    "tariffPct": 7,
+    "misc": 254
+  },
+  {
+    "id": 553,
+    "orderItemId": 553,
+    "freight": 2073,
+    "tariffPct": 3,
+    "misc": 188
+  },
+  {
+    "id": 554,
+    "orderItemId": 554,
+    "freight": 1880,
+    "tariffPct": 1,
+    "misc": 384
+  },
+  {
+    "id": 555,
+    "orderItemId": 555,
+    "freight": 2771,
+    "tariffPct": 3,
+    "misc": 213
+  },
+  {
+    "id": 556,
+    "orderItemId": 556,
+    "freight": 2054,
+    "tariffPct": 13,
+    "misc": 108
+  },
+  {
+    "id": 557,
+    "orderItemId": 557,
+    "freight": 329,
+    "tariffPct": 12,
+    "misc": 364
+  },
+  {
+    "id": 558,
+    "orderItemId": 558,
+    "freight": 1728,
+    "tariffPct": 18,
+    "misc": 187
+  },
+  {
+    "id": 559,
+    "orderItemId": 559,
+    "freight": 1007,
+    "tariffPct": 7,
+    "misc": 371
+  },
+  {
+    "id": 560,
+    "orderItemId": 560,
+    "freight": 995,
+    "tariffPct": 9,
+    "misc": 267
+  },
+  {
+    "id": 561,
+    "orderItemId": 561,
+    "freight": 2898,
+    "tariffPct": 10,
+    "misc": 452
+  },
+  {
+    "id": 562,
+    "orderItemId": 562,
+    "freight": 2126,
+    "tariffPct": 4,
+    "misc": 425
+  },
+  {
+    "id": 563,
+    "orderItemId": 563,
+    "freight": 1105,
+    "tariffPct": 14,
+    "misc": 287
+  },
+  {
+    "id": 564,
+    "orderItemId": 564,
+    "freight": 468,
+    "tariffPct": 0,
+    "misc": 109
+  },
+  {
+    "id": 565,
+    "orderItemId": 565,
+    "freight": 1437,
+    "tariffPct": 16,
+    "misc": 175
+  },
+  {
+    "id": 566,
+    "orderItemId": 566,
+    "freight": 1895,
+    "tariffPct": 16,
+    "misc": 324
+  },
+  {
+    "id": 567,
+    "orderItemId": 567,
+    "freight": 2568,
+    "tariffPct": 17,
+    "misc": 172
+  },
+  {
+    "id": 568,
+    "orderItemId": 568,
+    "freight": 2547,
+    "tariffPct": 2,
+    "misc": 420
+  },
+  {
+    "id": 569,
+    "orderItemId": 569,
+    "freight": 736,
+    "tariffPct": 1,
+    "misc": 444
+  },
+  {
+    "id": 570,
+    "orderItemId": 570,
+    "freight": 1747,
+    "tariffPct": 1,
+    "misc": 306
+  },
+  {
+    "id": 571,
+    "orderItemId": 571,
+    "freight": 2598,
+    "tariffPct": 14,
+    "misc": 266
+  },
+  {
+    "id": 572,
+    "orderItemId": 572,
+    "freight": 1574,
+    "tariffPct": 12,
+    "misc": 68
+  },
+  {
+    "id": 573,
+    "orderItemId": 573,
+    "freight": 1524,
+    "tariffPct": 12,
+    "misc": 354
+  },
+  {
+    "id": 574,
+    "orderItemId": 574,
+    "freight": 1422,
+    "tariffPct": 3,
+    "misc": 314
+  },
+  {
+    "id": 575,
+    "orderItemId": 575,
+    "freight": 1783,
+    "tariffPct": 15,
+    "misc": 459
+  },
+  {
+    "id": 576,
+    "orderItemId": 576,
+    "freight": 954,
+    "tariffPct": 9,
+    "misc": 461
+  },
+  {
+    "id": 577,
+    "orderItemId": 577,
+    "freight": 377,
+    "tariffPct": 8,
+    "misc": 423
+  },
+  {
+    "id": 578,
+    "orderItemId": 578,
+    "freight": 467,
+    "tariffPct": 7,
+    "misc": 494
+  },
+  {
+    "id": 579,
+    "orderItemId": 579,
+    "freight": 2276,
+    "tariffPct": 2,
+    "misc": 229
+  },
+  {
+    "id": 580,
+    "orderItemId": 580,
+    "freight": 2455,
+    "tariffPct": 4,
+    "misc": 205
+  },
+  {
+    "id": 581,
+    "orderItemId": 581,
+    "freight": 1461,
+    "tariffPct": 6,
+    "misc": 136
+  },
+  {
+    "id": 582,
+    "orderItemId": 582,
+    "freight": 469,
+    "tariffPct": 17,
+    "misc": 123
+  },
+  {
+    "id": 583,
+    "orderItemId": 583,
+    "freight": 701,
+    "tariffPct": 2,
+    "misc": 311
+  },
+  {
+    "id": 584,
+    "orderItemId": 584,
+    "freight": 1649,
+    "tariffPct": 13,
+    "misc": 444
+  },
+  {
+    "id": 585,
+    "orderItemId": 585,
+    "freight": 2524,
+    "tariffPct": 3,
+    "misc": 296
+  },
+  {
+    "id": 586,
+    "orderItemId": 586,
+    "freight": 1897,
+    "tariffPct": 13,
+    "misc": 492
+  },
+  {
+    "id": 587,
+    "orderItemId": 587,
+    "freight": 2952,
+    "tariffPct": 9,
+    "misc": 443
+  },
+  {
+    "id": 588,
+    "orderItemId": 588,
+    "freight": 524,
+    "tariffPct": 2,
+    "misc": 450
+  },
+  {
+    "id": 589,
+    "orderItemId": 589,
+    "freight": 2724,
+    "tariffPct": 16,
+    "misc": 476
+  },
+  {
+    "id": 590,
+    "orderItemId": 590,
+    "freight": 1678,
+    "tariffPct": 5,
+    "misc": 167
+  },
+  {
+    "id": 591,
+    "orderItemId": 591,
+    "freight": 1335,
+    "tariffPct": 13,
+    "misc": 195
+  },
+  {
+    "id": 592,
+    "orderItemId": 592,
+    "freight": 629,
+    "tariffPct": 7,
+    "misc": 56
+  },
+  {
+    "id": 593,
+    "orderItemId": 593,
+    "freight": 2888,
+    "tariffPct": 13,
+    "misc": 437
+  },
+  {
+    "id": 594,
+    "orderItemId": 594,
+    "freight": 712,
+    "tariffPct": 8,
+    "misc": 206
+  },
+  {
+    "id": 595,
+    "orderItemId": 595,
+    "freight": 2684,
+    "tariffPct": 4,
+    "misc": 386
+  },
+  {
+    "id": 596,
+    "orderItemId": 596,
+    "freight": 1050,
+    "tariffPct": 5,
+    "misc": 55
+  },
+  {
+    "id": 597,
+    "orderItemId": 597,
+    "freight": 2835,
+    "tariffPct": 5,
+    "misc": 313
+  },
+  {
+    "id": 598,
+    "orderItemId": 598,
+    "freight": 2275,
+    "tariffPct": 16,
+    "misc": 331
+  },
+  {
+    "id": 599,
+    "orderItemId": 599,
+    "freight": 539,
+    "tariffPct": 13,
+    "misc": 59
+  },
+  {
+    "id": 600,
+    "orderItemId": 600,
+    "freight": 2386,
+    "tariffPct": 10,
+    "misc": 164
+  },
+  {
+    "id": 601,
+    "orderItemId": 601,
+    "freight": 2347,
+    "tariffPct": 5,
+    "misc": 183
+  },
+  {
+    "id": 602,
+    "orderItemId": 602,
+    "freight": 660,
+    "tariffPct": 8,
+    "misc": 221
+  },
+  {
+    "id": 603,
+    "orderItemId": 603,
+    "freight": 2047,
+    "tariffPct": 8,
+    "misc": 411
+  },
+  {
+    "id": 604,
+    "orderItemId": 604,
+    "freight": 807,
+    "tariffPct": 1,
+    "misc": 493
+  },
+  {
+    "id": 605,
+    "orderItemId": 605,
+    "freight": 2857,
+    "tariffPct": 13,
+    "misc": 123
+  },
+  {
+    "id": 606,
+    "orderItemId": 606,
+    "freight": 1385,
+    "tariffPct": 14,
+    "misc": 466
+  },
+  {
+    "id": 607,
+    "orderItemId": 607,
+    "freight": 921,
+    "tariffPct": 9,
+    "misc": 226
+  },
+  {
+    "id": 608,
+    "orderItemId": 608,
+    "freight": 1481,
+    "tariffPct": 18,
+    "misc": 240
+  },
+  {
+    "id": 609,
+    "orderItemId": 609,
+    "freight": 2284,
+    "tariffPct": 0,
+    "misc": 254
+  },
+  {
+    "id": 610,
+    "orderItemId": 610,
+    "freight": 2110,
+    "tariffPct": 6,
+    "misc": 73
+  },
+  {
+    "id": 611,
+    "orderItemId": 611,
+    "freight": 283,
+    "tariffPct": 6,
+    "misc": 430
+  },
+  {
+    "id": 612,
+    "orderItemId": 612,
+    "freight": 826,
+    "tariffPct": 4,
+    "misc": 249
+  },
+  {
+    "id": 613,
+    "orderItemId": 613,
+    "freight": 2070,
+    "tariffPct": 4,
+    "misc": 290
+  },
+  {
+    "id": 614,
+    "orderItemId": 614,
+    "freight": 2542,
+    "tariffPct": 5,
+    "misc": 92
+  },
+  {
+    "id": 615,
+    "orderItemId": 615,
+    "freight": 2439,
+    "tariffPct": 7,
+    "misc": 77
+  },
+  {
+    "id": 616,
+    "orderItemId": 616,
+    "freight": 1753,
+    "tariffPct": 17,
+    "misc": 153
+  },
+  {
+    "id": 617,
+    "orderItemId": 617,
+    "freight": 2234,
+    "tariffPct": 10,
+    "misc": 270
+  },
+  {
+    "id": 618,
+    "orderItemId": 618,
+    "freight": 300,
+    "tariffPct": 0,
+    "misc": 211
+  },
+  {
+    "id": 619,
+    "orderItemId": 619,
+    "freight": 381,
+    "tariffPct": 2,
+    "misc": 465
+  },
+  {
+    "id": 620,
+    "orderItemId": 620,
+    "freight": 939,
+    "tariffPct": 4,
+    "misc": 428
+  },
+  {
+    "id": 621,
+    "orderItemId": 621,
+    "freight": 1529,
+    "tariffPct": 12,
+    "misc": 80
+  },
+  {
+    "id": 622,
+    "orderItemId": 622,
+    "freight": 1448,
+    "tariffPct": 15,
+    "misc": 145
+  },
+  {
+    "id": 623,
+    "orderItemId": 623,
+    "freight": 1934,
+    "tariffPct": 3,
+    "misc": 292
+  },
+  {
+    "id": 624,
+    "orderItemId": 624,
+    "freight": 1093,
+    "tariffPct": 7,
+    "misc": 171
+  },
+  {
+    "id": 625,
+    "orderItemId": 625,
+    "freight": 2491,
+    "tariffPct": 4,
+    "misc": 170
+  },
+  {
+    "id": 626,
+    "orderItemId": 626,
+    "freight": 1452,
+    "tariffPct": 1,
+    "misc": 74
+  },
+  {
+    "id": 627,
+    "orderItemId": 627,
+    "freight": 622,
+    "tariffPct": 9,
+    "misc": 321
+  },
+  {
+    "id": 628,
+    "orderItemId": 628,
+    "freight": 2572,
+    "tariffPct": 17,
+    "misc": 244
+  },
+  {
+    "id": 629,
+    "orderItemId": 629,
+    "freight": 1982,
+    "tariffPct": 16,
+    "misc": 461
+  },
+  {
+    "id": 630,
+    "orderItemId": 630,
+    "freight": 1049,
+    "tariffPct": 1,
+    "misc": 100
+  },
+  {
+    "id": 631,
+    "orderItemId": 631,
+    "freight": 1741,
+    "tariffPct": 15,
+    "misc": 132
+  },
+  {
+    "id": 632,
+    "orderItemId": 632,
+    "freight": 1838,
+    "tariffPct": 9,
+    "misc": 209
+  },
+  {
+    "id": 633,
+    "orderItemId": 633,
+    "freight": 401,
+    "tariffPct": 6,
+    "misc": 348
+  },
+  {
+    "id": 634,
+    "orderItemId": 634,
+    "freight": 1999,
+    "tariffPct": 7,
+    "misc": 142
+  },
+  {
+    "id": 635,
+    "orderItemId": 635,
+    "freight": 887,
+    "tariffPct": 16,
+    "misc": 453
+  },
+  {
+    "id": 636,
+    "orderItemId": 636,
+    "freight": 1208,
+    "tariffPct": 0,
+    "misc": 287
+  },
+  {
+    "id": 637,
+    "orderItemId": 637,
+    "freight": 536,
+    "tariffPct": 9,
+    "misc": 308
+  },
+  {
+    "id": 638,
+    "orderItemId": 638,
+    "freight": 2062,
+    "tariffPct": 14,
+    "misc": 179
+  },
+  {
+    "id": 639,
+    "orderItemId": 639,
+    "freight": 1960,
+    "tariffPct": 12,
+    "misc": 393
+  },
+  {
+    "id": 640,
+    "orderItemId": 640,
+    "freight": 872,
+    "tariffPct": 7,
+    "misc": 424
+  },
+  {
+    "id": 641,
+    "orderItemId": 641,
+    "freight": 1624,
+    "tariffPct": 6,
+    "misc": 100
+  },
+  {
+    "id": 642,
+    "orderItemId": 642,
+    "freight": 717,
+    "tariffPct": 4,
+    "misc": 359
+  },
+  {
+    "id": 643,
+    "orderItemId": 643,
+    "freight": 2964,
+    "tariffPct": 3,
+    "misc": 202
+  },
+  {
+    "id": 644,
+    "orderItemId": 644,
+    "freight": 1690,
+    "tariffPct": 7,
+    "misc": 268
+  },
+  {
+    "id": 645,
+    "orderItemId": 645,
+    "freight": 799,
+    "tariffPct": 18,
+    "misc": 302
+  },
+  {
+    "id": 646,
+    "orderItemId": 646,
+    "freight": 1969,
+    "tariffPct": 12,
+    "misc": 377
+  },
+  {
+    "id": 647,
+    "orderItemId": 647,
+    "freight": 691,
+    "tariffPct": 16,
+    "misc": 176
+  },
+  {
+    "id": 648,
+    "orderItemId": 648,
+    "freight": 1890,
+    "tariffPct": 8,
+    "misc": 328
+  },
+  {
+    "id": 649,
+    "orderItemId": 649,
+    "freight": 215,
+    "tariffPct": 16,
+    "misc": 389
+  },
+  {
+    "id": 650,
+    "orderItemId": 650,
+    "freight": 2129,
+    "tariffPct": 12,
+    "misc": 230
+  },
+  {
+    "id": 651,
+    "orderItemId": 651,
+    "freight": 436,
+    "tariffPct": 6,
+    "misc": 355
+  },
+  {
+    "id": 652,
+    "orderItemId": 652,
+    "freight": 1740,
+    "tariffPct": 4,
+    "misc": 120
+  },
+  {
+    "id": 653,
+    "orderItemId": 653,
+    "freight": 252,
+    "tariffPct": 8,
+    "misc": 206
+  },
+  {
+    "id": 654,
+    "orderItemId": 654,
+    "freight": 1178,
+    "tariffPct": 4,
+    "misc": 390
+  },
+  {
+    "id": 655,
+    "orderItemId": 655,
+    "freight": 723,
+    "tariffPct": 10,
+    "misc": 238
+  },
+  {
+    "id": 656,
+    "orderItemId": 656,
+    "freight": 1516,
+    "tariffPct": 1,
+    "misc": 499
+  },
+  {
+    "id": 657,
+    "orderItemId": 657,
+    "freight": 1691,
+    "tariffPct": 5,
+    "misc": 186
+  },
+  {
+    "id": 658,
+    "orderItemId": 658,
+    "freight": 1959,
+    "tariffPct": 18,
+    "misc": 220
+  },
+  {
+    "id": 659,
+    "orderItemId": 659,
+    "freight": 1287,
+    "tariffPct": 17,
+    "misc": 451
+  },
+  {
+    "id": 660,
+    "orderItemId": 660,
+    "freight": 506,
+    "tariffPct": 14,
+    "misc": 481
+  },
+  {
+    "id": 661,
+    "orderItemId": 661,
+    "freight": 1272,
+    "tariffPct": 14,
+    "misc": 497
+  },
+  {
+    "id": 662,
+    "orderItemId": 662,
+    "freight": 974,
+    "tariffPct": 9,
+    "misc": 258
+  },
+  {
+    "id": 663,
+    "orderItemId": 663,
+    "freight": 1163,
+    "tariffPct": 15,
+    "misc": 266
+  },
+  {
+    "id": 664,
+    "orderItemId": 664,
+    "freight": 619,
+    "tariffPct": 9,
+    "misc": 160
+  },
+  {
+    "id": 665,
+    "orderItemId": 665,
+    "freight": 2223,
+    "tariffPct": 10,
+    "misc": 366
+  },
+  {
+    "id": 666,
+    "orderItemId": 666,
+    "freight": 1784,
+    "tariffPct": 0,
+    "misc": 460
+  },
+  {
+    "id": 667,
+    "orderItemId": 667,
+    "freight": 2715,
+    "tariffPct": 0,
+    "misc": 249
+  },
+  {
+    "id": 668,
+    "orderItemId": 668,
+    "freight": 2233,
+    "tariffPct": 9,
+    "misc": 163
+  },
+  {
+    "id": 669,
+    "orderItemId": 669,
+    "freight": 1119,
+    "tariffPct": 17,
+    "misc": 495
+  },
+  {
+    "id": 670,
+    "orderItemId": 670,
+    "freight": 2456,
+    "tariffPct": 5,
+    "misc": 360
+  },
+  {
+    "id": 671,
+    "orderItemId": 671,
+    "freight": 1757,
+    "tariffPct": 6,
+    "misc": 495
+  },
+  {
+    "id": 672,
+    "orderItemId": 672,
+    "freight": 2531,
+    "tariffPct": 12,
+    "misc": 198
+  },
+  {
+    "id": 673,
+    "orderItemId": 673,
+    "freight": 1245,
+    "tariffPct": 12,
+    "misc": 172
+  },
+  {
+    "id": 674,
+    "orderItemId": 674,
+    "freight": 1430,
+    "tariffPct": 4,
+    "misc": 481
+  },
+  {
+    "id": 675,
+    "orderItemId": 675,
+    "freight": 253,
+    "tariffPct": 13,
+    "misc": 73
+  },
+  {
+    "id": 676,
+    "orderItemId": 676,
+    "freight": 474,
+    "tariffPct": 1,
+    "misc": 405
+  },
+  {
+    "id": 677,
+    "orderItemId": 677,
+    "freight": 2640,
+    "tariffPct": 12,
+    "misc": 493
+  },
+  {
+    "id": 678,
+    "orderItemId": 678,
+    "freight": 2301,
+    "tariffPct": 13,
+    "misc": 391
+  },
+  {
+    "id": 679,
+    "orderItemId": 679,
+    "freight": 391,
+    "tariffPct": 5,
+    "misc": 324
+  },
+  {
+    "id": 680,
+    "orderItemId": 680,
+    "freight": 245,
+    "tariffPct": 15,
+    "misc": 204
+  },
+  {
+    "id": 681,
+    "orderItemId": 681,
+    "freight": 2505,
+    "tariffPct": 14,
+    "misc": 336
+  },
+  {
+    "id": 682,
+    "orderItemId": 682,
+    "freight": 1548,
+    "tariffPct": 16,
+    "misc": 157
+  },
+  {
+    "id": 683,
+    "orderItemId": 683,
+    "freight": 1454,
+    "tariffPct": 7,
+    "misc": 309
+  },
+  {
+    "id": 684,
+    "orderItemId": 684,
+    "freight": 556,
+    "tariffPct": 10,
+    "misc": 453
+  },
+  {
+    "id": 685,
+    "orderItemId": 685,
+    "freight": 2569,
+    "tariffPct": 1,
+    "misc": 210
+  },
+  {
+    "id": 686,
+    "orderItemId": 686,
+    "freight": 1782,
+    "tariffPct": 13,
+    "misc": 54
+  },
+  {
+    "id": 687,
+    "orderItemId": 687,
+    "freight": 2397,
+    "tariffPct": 7,
+    "misc": 108
+  },
+  {
+    "id": 688,
+    "orderItemId": 688,
+    "freight": 866,
+    "tariffPct": 8,
+    "misc": 337
+  },
+  {
+    "id": 689,
+    "orderItemId": 689,
+    "freight": 1659,
+    "tariffPct": 12,
+    "misc": 94
+  },
+  {
+    "id": 690,
+    "orderItemId": 690,
+    "freight": 2866,
+    "tariffPct": 14,
+    "misc": 133
+  },
+  {
+    "id": 691,
+    "orderItemId": 691,
+    "freight": 2944,
+    "tariffPct": 5,
+    "misc": 252
+  },
+  {
+    "id": 692,
+    "orderItemId": 692,
+    "freight": 876,
+    "tariffPct": 5,
+    "misc": 100
+  },
+  {
+    "id": 693,
+    "orderItemId": 693,
+    "freight": 1865,
+    "tariffPct": 0,
+    "misc": 365
+  },
+  {
+    "id": 694,
+    "orderItemId": 694,
+    "freight": 2709,
+    "tariffPct": 0,
+    "misc": 498
+  },
+  {
+    "id": 695,
+    "orderItemId": 695,
+    "freight": 1861,
+    "tariffPct": 15,
+    "misc": 350
+  },
+  {
+    "id": 696,
+    "orderItemId": 696,
+    "freight": 741,
+    "tariffPct": 8,
+    "misc": 150
+  },
+  {
+    "id": 697,
+    "orderItemId": 697,
+    "freight": 1178,
+    "tariffPct": 3,
+    "misc": 196
+  },
+  {
+    "id": 698,
+    "orderItemId": 698,
+    "freight": 1999,
+    "tariffPct": 11,
+    "misc": 316
+  },
+  {
+    "id": 699,
+    "orderItemId": 699,
+    "freight": 1074,
+    "tariffPct": 10,
+    "misc": 432
+  },
+  {
+    "id": 700,
+    "orderItemId": 700,
+    "freight": 2182,
+    "tariffPct": 3,
+    "misc": 451
+  },
+  {
+    "id": 701,
+    "orderItemId": 701,
+    "freight": 1289,
+    "tariffPct": 0,
+    "misc": 242
+  },
+  {
+    "id": 702,
+    "orderItemId": 702,
+    "freight": 1311,
+    "tariffPct": 16,
+    "misc": 274
+  },
+  {
+    "id": 703,
+    "orderItemId": 703,
+    "freight": 626,
+    "tariffPct": 6,
+    "misc": 352
+  },
+  {
+    "id": 704,
+    "orderItemId": 704,
+    "freight": 1901,
+    "tariffPct": 16,
+    "misc": 431
+  },
+  {
+    "id": 705,
+    "orderItemId": 705,
+    "freight": 2171,
+    "tariffPct": 17,
+    "misc": 315
+  },
+  {
+    "id": 706,
+    "orderItemId": 706,
+    "freight": 646,
+    "tariffPct": 8,
+    "misc": 295
+  },
+  {
+    "id": 707,
+    "orderItemId": 707,
+    "freight": 1263,
+    "tariffPct": 13,
+    "misc": 322
+  },
+  {
+    "id": 708,
+    "orderItemId": 708,
+    "freight": 1748,
+    "tariffPct": 13,
+    "misc": 454
+  },
+  {
+    "id": 709,
+    "orderItemId": 709,
+    "freight": 799,
+    "tariffPct": 3,
+    "misc": 230
+  },
+  {
+    "id": 710,
+    "orderItemId": 710,
+    "freight": 2487,
+    "tariffPct": 3,
+    "misc": 81
+  },
+  {
+    "id": 711,
+    "orderItemId": 711,
+    "freight": 2621,
+    "tariffPct": 17,
+    "misc": 350
+  },
+  {
+    "id": 712,
+    "orderItemId": 712,
+    "freight": 1610,
+    "tariffPct": 6,
+    "misc": 337
+  },
+  {
+    "id": 713,
+    "orderItemId": 713,
+    "freight": 2395,
+    "tariffPct": 13,
+    "misc": 223
+  },
+  {
+    "id": 714,
+    "orderItemId": 714,
+    "freight": 569,
+    "tariffPct": 10,
+    "misc": 159
+  },
+  {
+    "id": 715,
+    "orderItemId": 715,
+    "freight": 2012,
+    "tariffPct": 3,
+    "misc": 360
+  },
+  {
+    "id": 716,
+    "orderItemId": 716,
+    "freight": 820,
+    "tariffPct": 8,
+    "misc": 443
+  },
+  {
+    "id": 717,
+    "orderItemId": 717,
+    "freight": 2841,
+    "tariffPct": 1,
+    "misc": 129
+  },
+  {
+    "id": 718,
+    "orderItemId": 718,
+    "freight": 1146,
+    "tariffPct": 17,
+    "misc": 261
+  },
+  {
+    "id": 719,
+    "orderItemId": 719,
+    "freight": 2681,
+    "tariffPct": 1,
+    "misc": 210
+  },
+  {
+    "id": 720,
+    "orderItemId": 720,
+    "freight": 1269,
+    "tariffPct": 11,
+    "misc": 137
+  },
+  {
+    "id": 721,
+    "orderItemId": 721,
+    "freight": 976,
+    "tariffPct": 3,
+    "misc": 109
+  },
+  {
+    "id": 722,
+    "orderItemId": 722,
+    "freight": 1312,
+    "tariffPct": 1,
+    "misc": 90
+  },
+  {
+    "id": 723,
+    "orderItemId": 723,
+    "freight": 1534,
+    "tariffPct": 0,
+    "misc": 269
+  },
+  {
+    "id": 724,
+    "orderItemId": 724,
+    "freight": 2191,
+    "tariffPct": 9,
+    "misc": 101
+  },
+  {
+    "id": 725,
+    "orderItemId": 725,
+    "freight": 2720,
+    "tariffPct": 12,
+    "misc": 113
+  },
+  {
+    "id": 726,
+    "orderItemId": 726,
+    "freight": 2432,
+    "tariffPct": 2,
+    "misc": 194
+  },
+  {
+    "id": 727,
+    "orderItemId": 727,
+    "freight": 588,
+    "tariffPct": 11,
+    "misc": 100
+  },
+  {
+    "id": 728,
+    "orderItemId": 728,
+    "freight": 896,
+    "tariffPct": 17,
+    "misc": 231
+  },
+  {
+    "id": 729,
+    "orderItemId": 729,
+    "freight": 929,
+    "tariffPct": 9,
+    "misc": 459
+  },
+  {
+    "id": 730,
+    "orderItemId": 730,
+    "freight": 1296,
+    "tariffPct": 7,
+    "misc": 142
+  },
+  {
+    "id": 731,
+    "orderItemId": 731,
+    "freight": 2775,
+    "tariffPct": 11,
+    "misc": 86
+  },
+  {
+    "id": 732,
+    "orderItemId": 732,
+    "freight": 287,
+    "tariffPct": 2,
+    "misc": 427
+  },
+  {
+    "id": 733,
+    "orderItemId": 733,
+    "freight": 521,
+    "tariffPct": 13,
+    "misc": 239
+  },
+  {
+    "id": 734,
+    "orderItemId": 734,
+    "freight": 2776,
+    "tariffPct": 15,
+    "misc": 456
+  },
+  {
+    "id": 735,
+    "orderItemId": 735,
+    "freight": 2446,
+    "tariffPct": 13,
+    "misc": 70
+  },
+  {
+    "id": 736,
+    "orderItemId": 736,
+    "freight": 2463,
+    "tariffPct": 4,
+    "misc": 54
+  },
+  {
+    "id": 737,
+    "orderItemId": 737,
+    "freight": 2566,
+    "tariffPct": 18,
+    "misc": 326
+  },
+  {
+    "id": 738,
+    "orderItemId": 738,
+    "freight": 1891,
+    "tariffPct": 15,
+    "misc": 345
+  },
+  {
+    "id": 739,
+    "orderItemId": 739,
+    "freight": 2246,
+    "tariffPct": 15,
+    "misc": 311
+  },
+  {
+    "id": 740,
+    "orderItemId": 740,
+    "freight": 1698,
+    "tariffPct": 1,
+    "misc": 181
+  },
+  {
+    "id": 741,
+    "orderItemId": 741,
+    "freight": 846,
+    "tariffPct": 11,
+    "misc": 128
+  },
+  {
+    "id": 742,
+    "orderItemId": 742,
+    "freight": 1008,
+    "tariffPct": 0,
+    "misc": 164
+  },
+  {
+    "id": 743,
+    "orderItemId": 743,
+    "freight": 615,
+    "tariffPct": 17,
+    "misc": 104
+  },
+  {
+    "id": 744,
+    "orderItemId": 744,
+    "freight": 1041,
+    "tariffPct": 6,
+    "misc": 164
+  },
+  {
+    "id": 745,
+    "orderItemId": 745,
+    "freight": 2446,
+    "tariffPct": 13,
+    "misc": 492
+  },
+  {
+    "id": 746,
+    "orderItemId": 746,
+    "freight": 1038,
+    "tariffPct": 13,
+    "misc": 278
+  },
+  {
+    "id": 747,
+    "orderItemId": 747,
+    "freight": 889,
+    "tariffPct": 17,
+    "misc": 478
+  },
+  {
+    "id": 748,
+    "orderItemId": 748,
+    "freight": 728,
+    "tariffPct": 1,
+    "misc": 336
+  },
+  {
+    "id": 749,
+    "orderItemId": 749,
+    "freight": 479,
+    "tariffPct": 9,
+    "misc": 128
+  },
+  {
+    "id": 750,
+    "orderItemId": 750,
+    "freight": 2762,
+    "tariffPct": 3,
+    "misc": 431
+  },
+  {
+    "id": 751,
+    "orderItemId": 751,
+    "freight": 442,
+    "tariffPct": 16,
+    "misc": 462
+  },
+  {
+    "id": 752,
+    "orderItemId": 752,
+    "freight": 2753,
+    "tariffPct": 10,
+    "misc": 455
+  },
+  {
+    "id": 753,
+    "orderItemId": 753,
+    "freight": 2739,
+    "tariffPct": 17,
+    "misc": 192
+  },
+  {
+    "id": 754,
+    "orderItemId": 754,
+    "freight": 1294,
+    "tariffPct": 11,
+    "misc": 168
+  },
+  {
+    "id": 755,
+    "orderItemId": 755,
+    "freight": 2653,
+    "tariffPct": 16,
+    "misc": 191
+  },
+  {
+    "id": 756,
+    "orderItemId": 756,
+    "freight": 2109,
+    "tariffPct": 5,
+    "misc": 221
+  },
+  {
+    "id": 757,
+    "orderItemId": 757,
+    "freight": 629,
+    "tariffPct": 2,
+    "misc": 444
+  },
+  {
+    "id": 758,
+    "orderItemId": 758,
+    "freight": 787,
+    "tariffPct": 1,
+    "misc": 362
+  },
+  {
+    "id": 759,
+    "orderItemId": 759,
+    "freight": 1895,
+    "tariffPct": 15,
+    "misc": 468
+  },
+  {
+    "id": 760,
+    "orderItemId": 760,
+    "freight": 2926,
+    "tariffPct": 17,
+    "misc": 223
+  },
+  {
+    "id": 761,
+    "orderItemId": 761,
+    "freight": 2902,
+    "tariffPct": 10,
+    "misc": 86
+  },
+  {
+    "id": 762,
+    "orderItemId": 762,
+    "freight": 800,
+    "tariffPct": 16,
+    "misc": 195
+  },
+  {
+    "id": 763,
+    "orderItemId": 763,
+    "freight": 2010,
+    "tariffPct": 9,
+    "misc": 60
+  },
+  {
+    "id": 764,
+    "orderItemId": 764,
+    "freight": 2822,
+    "tariffPct": 2,
+    "misc": 470
+  },
+  {
+    "id": 765,
+    "orderItemId": 765,
+    "freight": 1433,
+    "tariffPct": 6,
+    "misc": 249
+  },
+  {
+    "id": 766,
+    "orderItemId": 766,
+    "freight": 629,
+    "tariffPct": 4,
+    "misc": 82
+  },
+  {
+    "id": 767,
+    "orderItemId": 767,
+    "freight": 784,
+    "tariffPct": 6,
+    "misc": 147
+  },
+  {
+    "id": 768,
+    "orderItemId": 768,
+    "freight": 397,
+    "tariffPct": 12,
+    "misc": 421
+  },
+  {
+    "id": 769,
+    "orderItemId": 769,
+    "freight": 2084,
+    "tariffPct": 3,
+    "misc": 152
+  },
+  {
+    "id": 770,
+    "orderItemId": 770,
+    "freight": 1263,
+    "tariffPct": 16,
+    "misc": 398
+  },
+  {
+    "id": 771,
+    "orderItemId": 771,
+    "freight": 554,
+    "tariffPct": 7,
+    "misc": 72
+  },
+  {
+    "id": 772,
+    "orderItemId": 772,
+    "freight": 2403,
+    "tariffPct": 0,
+    "misc": 92
+  },
+  {
+    "id": 773,
+    "orderItemId": 773,
+    "freight": 1542,
+    "tariffPct": 16,
+    "misc": 449
+  },
+  {
+    "id": 774,
+    "orderItemId": 774,
+    "freight": 2406,
+    "tariffPct": 1,
+    "misc": 483
+  },
+  {
+    "id": 775,
+    "orderItemId": 775,
+    "freight": 2288,
+    "tariffPct": 1,
+    "misc": 258
+  },
+  {
+    "id": 776,
+    "orderItemId": 776,
+    "freight": 710,
+    "tariffPct": 15,
+    "misc": 202
+  },
+  {
+    "id": 777,
+    "orderItemId": 777,
+    "freight": 2846,
+    "tariffPct": 10,
+    "misc": 379
+  },
+  {
+    "id": 778,
+    "orderItemId": 778,
+    "freight": 2934,
+    "tariffPct": 5,
+    "misc": 57
+  },
+  {
+    "id": 779,
+    "orderItemId": 779,
+    "freight": 505,
+    "tariffPct": 16,
+    "misc": 215
+  },
+  {
+    "id": 780,
+    "orderItemId": 780,
+    "freight": 1621,
+    "tariffPct": 3,
+    "misc": 241
+  },
+  {
+    "id": 781,
+    "orderItemId": 781,
+    "freight": 2127,
+    "tariffPct": 17,
+    "misc": 494
+  },
+  {
+    "id": 782,
+    "orderItemId": 782,
+    "freight": 2729,
+    "tariffPct": 7,
+    "misc": 319
+  },
+  {
+    "id": 783,
+    "orderItemId": 783,
+    "freight": 1723,
+    "tariffPct": 11,
+    "misc": 305
+  },
+  {
+    "id": 784,
+    "orderItemId": 784,
+    "freight": 1069,
+    "tariffPct": 17,
+    "misc": 456
+  },
+  {
+    "id": 785,
+    "orderItemId": 785,
+    "freight": 2237,
+    "tariffPct": 4,
+    "misc": 468
+  },
+  {
+    "id": 786,
+    "orderItemId": 786,
+    "freight": 1998,
+    "tariffPct": 17,
+    "misc": 389
+  },
+  {
+    "id": 787,
+    "orderItemId": 787,
+    "freight": 2617,
+    "tariffPct": 11,
+    "misc": 204
+  },
+  {
+    "id": 788,
+    "orderItemId": 788,
+    "freight": 2944,
+    "tariffPct": 14,
+    "misc": 396
+  },
+  {
+    "id": 789,
+    "orderItemId": 789,
+    "freight": 1488,
+    "tariffPct": 8,
+    "misc": 105
+  },
+  {
+    "id": 790,
+    "orderItemId": 790,
+    "freight": 432,
+    "tariffPct": 7,
+    "misc": 421
+  },
+  {
+    "id": 791,
+    "orderItemId": 791,
+    "freight": 994,
+    "tariffPct": 15,
+    "misc": 271
+  },
+  {
+    "id": 792,
+    "orderItemId": 792,
+    "freight": 839,
+    "tariffPct": 2,
+    "misc": 76
+  },
+  {
+    "id": 793,
+    "orderItemId": 793,
+    "freight": 2401,
+    "tariffPct": 0,
+    "misc": 63
+  },
+  {
+    "id": 794,
+    "orderItemId": 794,
+    "freight": 314,
+    "tariffPct": 18,
+    "misc": 497
+  },
+  {
+    "id": 795,
+    "orderItemId": 795,
+    "freight": 2815,
+    "tariffPct": 2,
+    "misc": 386
+  },
+  {
+    "id": 796,
+    "orderItemId": 796,
+    "freight": 1275,
+    "tariffPct": 6,
+    "misc": 261
+  },
+  {
+    "id": 797,
+    "orderItemId": 797,
+    "freight": 631,
+    "tariffPct": 15,
+    "misc": 377
+  },
+  {
+    "id": 798,
+    "orderItemId": 798,
+    "freight": 496,
+    "tariffPct": 17,
+    "misc": 424
+  },
+  {
+    "id": 799,
+    "orderItemId": 799,
+    "freight": 1156,
+    "tariffPct": 11,
+    "misc": 222
+  },
+  {
+    "id": 800,
+    "orderItemId": 800,
+    "freight": 2145,
+    "tariffPct": 8,
+    "misc": 299
+  },
+  {
+    "id": 801,
+    "orderItemId": 801,
+    "freight": 2361,
+    "tariffPct": 3,
+    "misc": 101
+  },
+  {
+    "id": 802,
+    "orderItemId": 802,
+    "freight": 2744,
+    "tariffPct": 8,
+    "misc": 350
+  },
+  {
+    "id": 803,
+    "orderItemId": 803,
+    "freight": 1421,
+    "tariffPct": 6,
+    "misc": 339
+  },
+  {
+    "id": 804,
+    "orderItemId": 804,
+    "freight": 1293,
+    "tariffPct": 5,
+    "misc": 330
+  },
+  {
+    "id": 805,
+    "orderItemId": 805,
+    "freight": 2882,
+    "tariffPct": 16,
+    "misc": 203
+  },
+  {
+    "id": 806,
+    "orderItemId": 806,
+    "freight": 2149,
+    "tariffPct": 1,
+    "misc": 113
+  },
+  {
+    "id": 807,
+    "orderItemId": 807,
+    "freight": 1292,
+    "tariffPct": 15,
+    "misc": 393
+  },
+  {
+    "id": 808,
+    "orderItemId": 808,
+    "freight": 1376,
+    "tariffPct": 8,
+    "misc": 390
+  },
+  {
+    "id": 809,
+    "orderItemId": 809,
+    "freight": 449,
+    "tariffPct": 18,
+    "misc": 98
+  },
+  {
+    "id": 810,
+    "orderItemId": 810,
+    "freight": 772,
+    "tariffPct": 3,
+    "misc": 87
+  },
+  {
+    "id": 811,
+    "orderItemId": 811,
+    "freight": 384,
+    "tariffPct": 17,
+    "misc": 255
+  },
+  {
+    "id": 812,
+    "orderItemId": 812,
+    "freight": 1096,
+    "tariffPct": 3,
+    "misc": 285
+  },
+  {
+    "id": 813,
+    "orderItemId": 813,
+    "freight": 604,
+    "tariffPct": 6,
+    "misc": 81
+  },
+  {
+    "id": 814,
+    "orderItemId": 814,
+    "freight": 1102,
+    "tariffPct": 1,
+    "misc": 336
+  },
+  {
+    "id": 815,
+    "orderItemId": 815,
+    "freight": 999,
+    "tariffPct": 10,
+    "misc": 256
+  },
+  {
+    "id": 816,
+    "orderItemId": 816,
+    "freight": 2358,
+    "tariffPct": 8,
+    "misc": 361
+  },
+  {
+    "id": 817,
+    "orderItemId": 817,
+    "freight": 1538,
+    "tariffPct": 15,
+    "misc": 75
+  },
+  {
+    "id": 818,
+    "orderItemId": 818,
+    "freight": 2473,
+    "tariffPct": 15,
+    "misc": 145
+  },
+  {
+    "id": 819,
+    "orderItemId": 819,
+    "freight": 1987,
+    "tariffPct": 13,
+    "misc": 281
+  },
+  {
+    "id": 820,
+    "orderItemId": 820,
+    "freight": 919,
+    "tariffPct": 3,
+    "misc": 493
+  },
+  {
+    "id": 821,
+    "orderItemId": 821,
+    "freight": 1245,
+    "tariffPct": 6,
+    "misc": 218
+  },
+  {
+    "id": 822,
+    "orderItemId": 822,
+    "freight": 539,
+    "tariffPct": 11,
+    "misc": 214
+  },
+  {
+    "id": 823,
+    "orderItemId": 823,
+    "freight": 1450,
+    "tariffPct": 13,
+    "misc": 404
+  },
+  {
+    "id": 824,
+    "orderItemId": 824,
+    "freight": 2214,
+    "tariffPct": 3,
+    "misc": 63
+  },
+  {
+    "id": 825,
+    "orderItemId": 825,
+    "freight": 240,
+    "tariffPct": 9,
+    "misc": 343
+  },
+  {
+    "id": 826,
+    "orderItemId": 826,
+    "freight": 1686,
+    "tariffPct": 15,
+    "misc": 172
+  },
+  {
+    "id": 827,
+    "orderItemId": 827,
+    "freight": 1710,
+    "tariffPct": 15,
+    "misc": 348
+  },
+  {
+    "id": 828,
+    "orderItemId": 828,
+    "freight": 2774,
+    "tariffPct": 16,
+    "misc": 292
+  },
+  {
+    "id": 829,
+    "orderItemId": 829,
+    "freight": 2904,
+    "tariffPct": 7,
+    "misc": 263
+  },
+  {
+    "id": 830,
+    "orderItemId": 830,
+    "freight": 927,
+    "tariffPct": 4,
+    "misc": 209
+  },
+  {
+    "id": 831,
+    "orderItemId": 831,
+    "freight": 1754,
+    "tariffPct": 10,
+    "misc": 214
+  },
+  {
+    "id": 832,
+    "orderItemId": 832,
+    "freight": 1360,
+    "tariffPct": 13,
+    "misc": 360
+  },
+  {
+    "id": 833,
+    "orderItemId": 833,
+    "freight": 2651,
+    "tariffPct": 8,
+    "misc": 262
+  },
+  {
+    "id": 834,
+    "orderItemId": 834,
+    "freight": 585,
+    "tariffPct": 15,
+    "misc": 111
+  },
+  {
+    "id": 835,
+    "orderItemId": 835,
+    "freight": 1328,
+    "tariffPct": 7,
+    "misc": 111
+  },
+  {
+    "id": 836,
+    "orderItemId": 836,
+    "freight": 1270,
+    "tariffPct": 6,
+    "misc": 495
+  },
+  {
+    "id": 837,
+    "orderItemId": 837,
+    "freight": 619,
+    "tariffPct": 1,
+    "misc": 348
+  },
+  {
+    "id": 838,
+    "orderItemId": 838,
+    "freight": 1239,
+    "tariffPct": 7,
+    "misc": 449
+  },
+  {
+    "id": 839,
+    "orderItemId": 839,
+    "freight": 480,
+    "tariffPct": 0,
+    "misc": 387
+  },
+  {
+    "id": 840,
+    "orderItemId": 840,
+    "freight": 1305,
+    "tariffPct": 4,
+    "misc": 427
+  },
+  {
+    "id": 841,
+    "orderItemId": 841,
+    "freight": 2220,
+    "tariffPct": 1,
+    "misc": 411
+  },
+  {
+    "id": 842,
+    "orderItemId": 842,
+    "freight": 1986,
+    "tariffPct": 18,
+    "misc": 110
+  },
+  {
+    "id": 843,
+    "orderItemId": 843,
+    "freight": 2049,
+    "tariffPct": 4,
+    "misc": 318
+  },
+  {
+    "id": 844,
+    "orderItemId": 844,
+    "freight": 1655,
+    "tariffPct": 1,
+    "misc": 483
+  },
+  {
+    "id": 845,
+    "orderItemId": 845,
+    "freight": 2689,
+    "tariffPct": 17,
+    "misc": 409
+  },
+  {
+    "id": 846,
+    "orderItemId": 846,
+    "freight": 1966,
+    "tariffPct": 2,
+    "misc": 470
+  },
+  {
+    "id": 847,
+    "orderItemId": 847,
+    "freight": 1651,
+    "tariffPct": 1,
+    "misc": 288
+  },
+  {
+    "id": 848,
+    "orderItemId": 848,
+    "freight": 309,
+    "tariffPct": 18,
+    "misc": 268
+  },
+  {
+    "id": 849,
+    "orderItemId": 849,
+    "freight": 1911,
+    "tariffPct": 14,
+    "misc": 63
+  },
+  {
+    "id": 850,
+    "orderItemId": 850,
+    "freight": 229,
+    "tariffPct": 15,
+    "misc": 134
+  },
+  {
+    "id": 851,
+    "orderItemId": 851,
+    "freight": 408,
+    "tariffPct": 11,
+    "misc": 158
+  },
+  {
+    "id": 852,
+    "orderItemId": 852,
+    "freight": 1282,
+    "tariffPct": 0,
+    "misc": 134
+  },
+  {
+    "id": 853,
+    "orderItemId": 853,
+    "freight": 2411,
+    "tariffPct": 14,
+    "misc": 111
+  },
+  {
+    "id": 854,
+    "orderItemId": 854,
+    "freight": 2708,
+    "tariffPct": 12,
+    "misc": 195
+  },
+  {
+    "id": 855,
+    "orderItemId": 855,
+    "freight": 381,
+    "tariffPct": 17,
+    "misc": 218
+  },
+  {
+    "id": 856,
+    "orderItemId": 856,
+    "freight": 1289,
+    "tariffPct": 2,
+    "misc": 162
+  },
+  {
+    "id": 857,
+    "orderItemId": 857,
+    "freight": 257,
+    "tariffPct": 15,
+    "misc": 145
+  },
+  {
+    "id": 858,
+    "orderItemId": 858,
+    "freight": 378,
+    "tariffPct": 16,
+    "misc": 386
+  },
+  {
+    "id": 859,
+    "orderItemId": 859,
+    "freight": 1946,
+    "tariffPct": 10,
+    "misc": 306
+  },
+  {
+    "id": 860,
+    "orderItemId": 860,
+    "freight": 1276,
+    "tariffPct": 3,
+    "misc": 149
+  },
+  {
+    "id": 861,
+    "orderItemId": 861,
+    "freight": 2524,
+    "tariffPct": 2,
+    "misc": 355
+  },
+  {
+    "id": 862,
+    "orderItemId": 862,
+    "freight": 1783,
+    "tariffPct": 5,
+    "misc": 64
+  },
+  {
+    "id": 863,
+    "orderItemId": 863,
+    "freight": 1637,
+    "tariffPct": 4,
+    "misc": 97
+  },
+  {
+    "id": 864,
+    "orderItemId": 864,
+    "freight": 1290,
+    "tariffPct": 4,
+    "misc": 174
+  },
+  {
+    "id": 865,
+    "orderItemId": 865,
+    "freight": 816,
+    "tariffPct": 8,
+    "misc": 278
+  },
+  {
+    "id": 866,
+    "orderItemId": 866,
+    "freight": 2476,
+    "tariffPct": 8,
+    "misc": 388
+  },
+  {
+    "id": 867,
+    "orderItemId": 867,
+    "freight": 1414,
+    "tariffPct": 13,
+    "misc": 412
+  },
+  {
+    "id": 868,
+    "orderItemId": 868,
+    "freight": 695,
+    "tariffPct": 17,
+    "misc": 310
+  },
+  {
+    "id": 869,
+    "orderItemId": 869,
+    "freight": 701,
+    "tariffPct": 10,
+    "misc": 440
+  },
+  {
+    "id": 870,
+    "orderItemId": 870,
+    "freight": 368,
+    "tariffPct": 1,
+    "misc": 474
+  },
+  {
+    "id": 871,
+    "orderItemId": 871,
+    "freight": 352,
+    "tariffPct": 6,
+    "misc": 66
+  },
+  {
+    "id": 872,
+    "orderItemId": 872,
+    "freight": 2723,
+    "tariffPct": 18,
+    "misc": 326
+  },
+  {
+    "id": 873,
+    "orderItemId": 873,
+    "freight": 841,
+    "tariffPct": 14,
+    "misc": 287
+  },
+  {
+    "id": 874,
+    "orderItemId": 874,
+    "freight": 2393,
+    "tariffPct": 6,
+    "misc": 112
+  },
+  {
+    "id": 875,
+    "orderItemId": 875,
+    "freight": 523,
+    "tariffPct": 4,
+    "misc": 402
+  },
+  {
+    "id": 876,
+    "orderItemId": 876,
+    "freight": 1858,
+    "tariffPct": 9,
+    "misc": 302
+  },
+  {
+    "id": 877,
+    "orderItemId": 877,
+    "freight": 2551,
+    "tariffPct": 17,
+    "misc": 481
+  },
+  {
+    "id": 878,
+    "orderItemId": 878,
+    "freight": 2190,
+    "tariffPct": 10,
+    "misc": 360
+  },
+  {
+    "id": 879,
+    "orderItemId": 879,
+    "freight": 560,
+    "tariffPct": 14,
+    "misc": 148
+  },
+  {
+    "id": 880,
+    "orderItemId": 880,
+    "freight": 894,
+    "tariffPct": 18,
+    "misc": 438
+  },
+  {
+    "id": 881,
+    "orderItemId": 881,
+    "freight": 1285,
+    "tariffPct": 2,
+    "misc": 132
+  },
+  {
+    "id": 882,
+    "orderItemId": 882,
+    "freight": 2404,
+    "tariffPct": 3,
+    "misc": 404
+  },
+  {
+    "id": 883,
+    "orderItemId": 883,
+    "freight": 1352,
+    "tariffPct": 10,
+    "misc": 234
+  },
+  {
+    "id": 884,
+    "orderItemId": 884,
+    "freight": 2298,
+    "tariffPct": 18,
+    "misc": 106
+  },
+  {
+    "id": 885,
+    "orderItemId": 885,
+    "freight": 2028,
+    "tariffPct": 6,
+    "misc": 129
+  },
+  {
+    "id": 886,
+    "orderItemId": 886,
+    "freight": 666,
+    "tariffPct": 2,
+    "misc": 340
+  },
+  {
+    "id": 887,
+    "orderItemId": 887,
+    "freight": 345,
+    "tariffPct": 18,
+    "misc": 186
+  },
+  {
+    "id": 888,
+    "orderItemId": 888,
+    "freight": 2287,
+    "tariffPct": 15,
+    "misc": 310
+  },
+  {
+    "id": 889,
+    "orderItemId": 889,
+    "freight": 1055,
+    "tariffPct": 3,
+    "misc": 397
+  },
+  {
+    "id": 890,
+    "orderItemId": 890,
+    "freight": 203,
+    "tariffPct": 1,
+    "misc": 384
+  },
+  {
+    "id": 891,
+    "orderItemId": 891,
+    "freight": 550,
+    "tariffPct": 11,
+    "misc": 186
+  },
+  {
+    "id": 892,
+    "orderItemId": 892,
+    "freight": 249,
+    "tariffPct": 4,
+    "misc": 94
+  },
+  {
+    "id": 893,
+    "orderItemId": 893,
+    "freight": 2508,
+    "tariffPct": 2,
+    "misc": 305
+  },
+  {
+    "id": 894,
+    "orderItemId": 894,
+    "freight": 376,
+    "tariffPct": 0,
+    "misc": 124
+  },
+  {
+    "id": 895,
+    "orderItemId": 895,
+    "freight": 1761,
+    "tariffPct": 9,
+    "misc": 166
+  },
+  {
+    "id": 896,
+    "orderItemId": 896,
+    "freight": 830,
+    "tariffPct": 11,
+    "misc": 254
+  },
+  {
+    "id": 897,
+    "orderItemId": 897,
+    "freight": 2615,
+    "tariffPct": 5,
+    "misc": 311
+  },
+  {
+    "id": 898,
+    "orderItemId": 898,
+    "freight": 2579,
+    "tariffPct": 2,
+    "misc": 167
+  },
+  {
+    "id": 899,
+    "orderItemId": 899,
+    "freight": 1664,
+    "tariffPct": 1,
+    "misc": 415
+  },
+  {
+    "id": 900,
+    "orderItemId": 900,
+    "freight": 1107,
+    "tariffPct": 13,
+    "misc": 253
+  },
+  {
+    "id": 901,
+    "orderItemId": 901,
+    "freight": 2414,
+    "tariffPct": 13,
+    "misc": 229
+  },
+  {
+    "id": 902,
+    "orderItemId": 902,
+    "freight": 2133,
+    "tariffPct": 4,
+    "misc": 344
+  },
+  {
+    "id": 903,
+    "orderItemId": 903,
+    "freight": 1886,
+    "tariffPct": 14,
+    "misc": 321
+  },
+  {
+    "id": 904,
+    "orderItemId": 904,
+    "freight": 2575,
+    "tariffPct": 15,
+    "misc": 387
+  },
+  {
+    "id": 905,
+    "orderItemId": 905,
+    "freight": 2186,
+    "tariffPct": 2,
+    "misc": 63
+  },
+  {
+    "id": 906,
+    "orderItemId": 906,
+    "freight": 2403,
+    "tariffPct": 9,
+    "misc": 493
+  },
+  {
+    "id": 907,
+    "orderItemId": 907,
+    "freight": 2681,
+    "tariffPct": 4,
+    "misc": 499
+  },
+  {
+    "id": 908,
+    "orderItemId": 908,
+    "freight": 1341,
+    "tariffPct": 9,
+    "misc": 132
+  },
+  {
+    "id": 909,
+    "orderItemId": 909,
+    "freight": 2555,
+    "tariffPct": 18,
+    "misc": 488
+  },
+  {
+    "id": 910,
+    "orderItemId": 910,
+    "freight": 2675,
+    "tariffPct": 11,
+    "misc": 232
+  },
+  {
+    "id": 911,
+    "orderItemId": 911,
+    "freight": 2819,
+    "tariffPct": 7,
+    "misc": 457
+  },
+  {
+    "id": 912,
+    "orderItemId": 912,
+    "freight": 2036,
+    "tariffPct": 11,
+    "misc": 243
+  },
+  {
+    "id": 913,
+    "orderItemId": 913,
+    "freight": 2240,
+    "tariffPct": 14,
+    "misc": 218
+  },
+  {
+    "id": 914,
+    "orderItemId": 914,
+    "freight": 953,
+    "tariffPct": 16,
+    "misc": 415
+  },
+  {
+    "id": 915,
+    "orderItemId": 915,
+    "freight": 2667,
+    "tariffPct": 15,
+    "misc": 332
+  },
+  {
+    "id": 916,
+    "orderItemId": 916,
+    "freight": 930,
+    "tariffPct": 12,
+    "misc": 344
+  },
+  {
+    "id": 917,
+    "orderItemId": 917,
+    "freight": 2772,
+    "tariffPct": 12,
+    "misc": 206
+  },
+  {
+    "id": 918,
+    "orderItemId": 918,
+    "freight": 1975,
+    "tariffPct": 18,
+    "misc": 180
+  },
+  {
+    "id": 919,
+    "orderItemId": 919,
+    "freight": 2291,
+    "tariffPct": 15,
+    "misc": 483
+  },
+  {
+    "id": 920,
+    "orderItemId": 920,
+    "freight": 1731,
+    "tariffPct": 5,
+    "misc": 226
+  },
+  {
+    "id": 921,
+    "orderItemId": 921,
+    "freight": 1866,
+    "tariffPct": 12,
+    "misc": 111
+  },
+  {
+    "id": 922,
+    "orderItemId": 922,
+    "freight": 1368,
+    "tariffPct": 6,
+    "misc": 310
+  },
+  {
+    "id": 923,
+    "orderItemId": 923,
+    "freight": 1736,
+    "tariffPct": 6,
+    "misc": 287
+  },
+  {
+    "id": 924,
+    "orderItemId": 924,
+    "freight": 516,
+    "tariffPct": 9,
+    "misc": 427
+  },
+  {
+    "id": 925,
+    "orderItemId": 925,
+    "freight": 2577,
+    "tariffPct": 17,
+    "misc": 100
+  },
+  {
+    "id": 926,
+    "orderItemId": 926,
+    "freight": 1746,
+    "tariffPct": 4,
+    "misc": 144
+  },
+  {
+    "id": 927,
+    "orderItemId": 927,
+    "freight": 1998,
+    "tariffPct": 7,
+    "misc": 255
+  },
+  {
+    "id": 928,
+    "orderItemId": 928,
+    "freight": 402,
+    "tariffPct": 18,
+    "misc": 165
+  },
+  {
+    "id": 929,
+    "orderItemId": 929,
+    "freight": 2119,
+    "tariffPct": 1,
+    "misc": 431
+  },
+  {
+    "id": 930,
+    "orderItemId": 930,
+    "freight": 1534,
+    "tariffPct": 6,
+    "misc": 257
+  },
+  {
+    "id": 931,
+    "orderItemId": 931,
+    "freight": 2978,
+    "tariffPct": 8,
+    "misc": 435
+  },
+  {
+    "id": 932,
+    "orderItemId": 932,
+    "freight": 2731,
+    "tariffPct": 4,
+    "misc": 267
+  },
+  {
+    "id": 933,
+    "orderItemId": 933,
+    "freight": 1362,
+    "tariffPct": 12,
+    "misc": 420
+  },
+  {
+    "id": 934,
+    "orderItemId": 934,
+    "freight": 894,
+    "tariffPct": 2,
+    "misc": 387
+  },
+  {
+    "id": 935,
+    "orderItemId": 935,
+    "freight": 2042,
+    "tariffPct": 12,
+    "misc": 479
+  },
+  {
+    "id": 936,
+    "orderItemId": 936,
+    "freight": 1948,
+    "tariffPct": 13,
+    "misc": 267
+  },
+  {
+    "id": 937,
+    "orderItemId": 937,
+    "freight": 373,
+    "tariffPct": 9,
+    "misc": 83
+  },
+  {
+    "id": 938,
+    "orderItemId": 938,
+    "freight": 468,
+    "tariffPct": 7,
+    "misc": 334
+  },
+  {
+    "id": 939,
+    "orderItemId": 939,
+    "freight": 2734,
+    "tariffPct": 17,
+    "misc": 297
+  },
+  {
+    "id": 940,
+    "orderItemId": 940,
+    "freight": 1790,
+    "tariffPct": 13,
+    "misc": 227
+  },
+  {
+    "id": 941,
+    "orderItemId": 941,
+    "freight": 1395,
+    "tariffPct": 15,
+    "misc": 475
+  },
+  {
+    "id": 942,
+    "orderItemId": 942,
+    "freight": 2180,
+    "tariffPct": 2,
+    "misc": 143
+  },
+  {
+    "id": 943,
+    "orderItemId": 943,
+    "freight": 765,
+    "tariffPct": 0,
+    "misc": 442
+  },
+  {
+    "id": 944,
+    "orderItemId": 944,
+    "freight": 1064,
+    "tariffPct": 10,
+    "misc": 276
+  },
+  {
+    "id": 945,
+    "orderItemId": 945,
+    "freight": 2750,
+    "tariffPct": 8,
+    "misc": 208
+  },
+  {
+    "id": 946,
+    "orderItemId": 946,
+    "freight": 365,
+    "tariffPct": 18,
+    "misc": 181
+  },
+  {
+    "id": 947,
+    "orderItemId": 947,
+    "freight": 1685,
+    "tariffPct": 4,
+    "misc": 497
+  },
+  {
+    "id": 948,
+    "orderItemId": 948,
+    "freight": 1565,
+    "tariffPct": 8,
+    "misc": 346
+  },
+  {
+    "id": 949,
+    "orderItemId": 949,
+    "freight": 1391,
+    "tariffPct": 9,
+    "misc": 140
+  },
+  {
+    "id": 950,
+    "orderItemId": 950,
+    "freight": 256,
+    "tariffPct": 12,
+    "misc": 142
+  },
+  {
+    "id": 951,
+    "orderItemId": 951,
+    "freight": 450,
+    "tariffPct": 2,
+    "misc": 337
+  },
+  {
+    "id": 952,
+    "orderItemId": 952,
+    "freight": 902,
+    "tariffPct": 5,
+    "misc": 441
+  },
+  {
+    "id": 953,
+    "orderItemId": 953,
+    "freight": 1255,
+    "tariffPct": 4,
+    "misc": 129
+  },
+  {
+    "id": 954,
+    "orderItemId": 954,
+    "freight": 1961,
+    "tariffPct": 0,
+    "misc": 78
+  },
+  {
+    "id": 955,
+    "orderItemId": 955,
+    "freight": 1712,
+    "tariffPct": 3,
+    "misc": 463
+  },
+  {
+    "id": 956,
+    "orderItemId": 956,
+    "freight": 241,
+    "tariffPct": 17,
+    "misc": 327
+  },
+  {
+    "id": 957,
+    "orderItemId": 957,
+    "freight": 1729,
+    "tariffPct": 11,
+    "misc": 356
+  },
+  {
+    "id": 958,
+    "orderItemId": 958,
+    "freight": 2589,
+    "tariffPct": 9,
+    "misc": 386
+  },
+  {
+    "id": 959,
+    "orderItemId": 959,
+    "freight": 2906,
+    "tariffPct": 2,
+    "misc": 391
+  },
+  {
+    "id": 960,
+    "orderItemId": 960,
+    "freight": 550,
+    "tariffPct": 17,
+    "misc": 260
+  },
+  {
+    "id": 961,
+    "orderItemId": 961,
+    "freight": 1087,
+    "tariffPct": 13,
+    "misc": 175
+  },
+  {
+    "id": 962,
+    "orderItemId": 962,
+    "freight": 2516,
+    "tariffPct": 8,
+    "misc": 179
+  },
+  {
+    "id": 963,
+    "orderItemId": 963,
+    "freight": 2553,
+    "tariffPct": 5,
+    "misc": 247
+  },
+  {
+    "id": 964,
+    "orderItemId": 964,
+    "freight": 1569,
+    "tariffPct": 1,
+    "misc": 395
+  },
+  {
+    "id": 965,
+    "orderItemId": 965,
+    "freight": 2217,
+    "tariffPct": 9,
+    "misc": 491
+  },
+  {
+    "id": 966,
+    "orderItemId": 966,
+    "freight": 2415,
+    "tariffPct": 15,
+    "misc": 224
+  },
+  {
+    "id": 967,
+    "orderItemId": 967,
+    "freight": 1478,
+    "tariffPct": 11,
+    "misc": 345
+  },
+  {
+    "id": 968,
+    "orderItemId": 968,
+    "freight": 2925,
+    "tariffPct": 4,
+    "misc": 67
+  },
+  {
+    "id": 969,
+    "orderItemId": 969,
+    "freight": 690,
+    "tariffPct": 12,
+    "misc": 439
+  },
+  {
+    "id": 970,
+    "orderItemId": 970,
+    "freight": 456,
+    "tariffPct": 16,
+    "misc": 436
+  },
+  {
+    "id": 971,
+    "orderItemId": 971,
+    "freight": 2002,
+    "tariffPct": 12,
+    "misc": 151
+  },
+  {
+    "id": 972,
+    "orderItemId": 972,
+    "freight": 2144,
+    "tariffPct": 17,
+    "misc": 441
+  },
+  {
+    "id": 973,
+    "orderItemId": 973,
+    "freight": 215,
+    "tariffPct": 3,
+    "misc": 299
+  },
+  {
+    "id": 974,
+    "orderItemId": 974,
+    "freight": 1374,
+    "tariffPct": 14,
+    "misc": 487
+  },
+  {
+    "id": 975,
+    "orderItemId": 975,
+    "freight": 2766,
+    "tariffPct": 6,
+    "misc": 133
+  },
+  {
+    "id": 976,
+    "orderItemId": 976,
+    "freight": 2653,
+    "tariffPct": 0,
+    "misc": 214
+  },
+  {
+    "id": 977,
+    "orderItemId": 977,
+    "freight": 1181,
+    "tariffPct": 0,
+    "misc": 200
+  },
+  {
+    "id": 978,
+    "orderItemId": 978,
+    "freight": 1491,
+    "tariffPct": 7,
+    "misc": 212
+  },
+  {
+    "id": 979,
+    "orderItemId": 979,
+    "freight": 250,
+    "tariffPct": 11,
+    "misc": 466
+  },
+  {
+    "id": 980,
+    "orderItemId": 980,
+    "freight": 2506,
+    "tariffPct": 2,
+    "misc": 261
+  },
+  {
+    "id": 981,
+    "orderItemId": 981,
+    "freight": 1363,
+    "tariffPct": 5,
+    "misc": 160
+  },
+  {
+    "id": 982,
+    "orderItemId": 982,
+    "freight": 2654,
+    "tariffPct": 6,
+    "misc": 368
+  },
+  {
+    "id": 983,
+    "orderItemId": 983,
+    "freight": 2537,
+    "tariffPct": 14,
+    "misc": 322
+  },
+  {
+    "id": 984,
+    "orderItemId": 984,
+    "freight": 2221,
+    "tariffPct": 13,
+    "misc": 428
+  },
+  {
+    "id": 985,
+    "orderItemId": 985,
+    "freight": 2209,
+    "tariffPct": 8,
+    "misc": 263
+  },
+  {
+    "id": 986,
+    "orderItemId": 986,
+    "freight": 1097,
+    "tariffPct": 17,
+    "misc": 330
+  },
+  {
+    "id": 987,
+    "orderItemId": 987,
+    "freight": 2767,
+    "tariffPct": 14,
+    "misc": 87
+  },
+  {
+    "id": 988,
+    "orderItemId": 988,
+    "freight": 1547,
+    "tariffPct": 11,
+    "misc": 109
+  },
+  {
+    "id": 989,
+    "orderItemId": 989,
+    "freight": 2046,
+    "tariffPct": 1,
+    "misc": 390
+  },
+  {
+    "id": 990,
+    "orderItemId": 990,
+    "freight": 1799,
+    "tariffPct": 7,
+    "misc": 275
+  },
+  {
+    "id": 991,
+    "orderItemId": 991,
+    "freight": 1563,
+    "tariffPct": 9,
+    "misc": 229
+  },
+  {
+    "id": 992,
+    "orderItemId": 992,
+    "freight": 448,
+    "tariffPct": 13,
+    "misc": 355
+  },
+  {
+    "id": 993,
+    "orderItemId": 993,
+    "freight": 2122,
+    "tariffPct": 15,
+    "misc": 164
+  },
+  {
+    "id": 994,
+    "orderItemId": 994,
+    "freight": 1363,
+    "tariffPct": 18,
+    "misc": 69
+  },
+  {
+    "id": 995,
+    "orderItemId": 995,
+    "freight": 945,
+    "tariffPct": 8,
+    "misc": 442
+  }
+]
