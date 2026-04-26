@@ -97,8 +97,53 @@ export default function LoginPage(){
             {error}
           </p>
         )}
+{/* DEMO USERS */}
+        <div className="border-t pt-5 text-sm space-y-3">
+
+          <p className="font-bold text-slate-700">
+            Demo Login Credentials
+          </p>
+
+          <div className="bg-slate-50 p-3 rounded-xl">
+            <p className="font-semibold">
+              Admin
+            </p>
+            <p>
+              admin@apparel.com
+            </p>
+            <p>
+              1234
+            </p>
+          </div>
+
+          <div className="bg-slate-50 p-3 rounded-xl">
+            <p className="font-semibold">
+              Staff
+            </p>
+            <p>
+              staff@apparel.com
+            </p>
+            <p>
+              1234
+            </p>
+          </div>
+
+          <div className="bg-slate-50 p-3 rounded-xl">
+            <p className="font-semibold">
+              Viewer
+            </p>
+            <p>
+              viewer@apparel.com
+            </p>
+            <p>
+              1234
+            </p>
+          </div>
+
+        </div>
 
       </div>
+
     </div>
   );
 }
